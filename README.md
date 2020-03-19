@@ -32,6 +32,10 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 ## Newsletters
 
 
+
+
+![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/ps-ucsd-logo-crop.png)
 # Contributors
 - Kyle Gillaspy https://www.linkedin.com/in/kylegillaspy/
+
 
