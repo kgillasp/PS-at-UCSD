@@ -10,8 +10,7 @@ Our Board Members are here to answer questions about the content found down belo
 - [Kyle Gillaspy](https://calendly.com/product-space-kyle)
 - [Alex Fong](https://calendly.com/alexmatthewfong/30min)
 - To book multiple people, Take a look at our calendars and choose a time where we're available!
-- Alex's calendar: https://calendar.google.com/calendar?cid=YWxleG1hdHRoZXdmb25nQGdtYWlsLmNvbQ
-
+- [Group Calendar] (https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/Alex/calendar.html)
 
 ## How to Use
 PS @ UCSD's Product Management Resource is an amazing source of content for undergraduate students looking to break into Product Management, so the best ways to use are:
