@@ -8,6 +8,9 @@ You can expect to find relevant frameworks, interviews, experts, resources, book
 ## Office Hours
 Our Board Members are here to answer questions about the content found down below or Product Management in general. We offer individual 1-1 meetings as well as larger group discussions open to anyone. Check out our Calendly links below!
 - [Kyle Gillaspy](https://calendly.com/product-space-kyle)
+- [Alex Fong](https://calendly.com/alexmatthewfong/30min)
+- To book multiple people, Take a look at our calendars and choose a time where we're available!
+- Alex's calendar: https://calendar.google.com/calendar?cid=YWxleG1hdHRoZXdmb25nQGdtYWlsLmNvbQ
 
 
 ## How to Use
@@ -128,5 +131,6 @@ A few established and elite companies have instituted APM (Associate Product Man
 # Contributors
 If you are interested in contributing to this resource, please contact ucsd@productspace.org
 - Kyle Gillaspy https://www.linkedin.com/in/kylegillaspy/
+- Alex Fong https://www.linkedin.com/in/alexmatthewfong/
 
 
