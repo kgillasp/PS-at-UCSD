@@ -1,35 +1,31 @@
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/exploration_pm%20(2).jpg)
 # Product Space @ UCSD
-
+## About
 **[Product Space at UC San Diego](https://www.productspace.org/)** is dedicated to establishing a Product Community for undergraduate students looking to enter the world of Product Management. To help us realize this goal, this resource includes a curated list of product management advice sourced from our Product Leaders. 
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-## Office Hours and Advising
-Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
-- [Kyle Gillaspy](https://calendly.com/product-space-kyle)
-- [Alex Fong](https://calendly.com/alexmatthewfong/30min)
-
-To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/Alex/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
-
 ## How to Use
 PS @ UCSD's Product Management Resource is an amazing source of content for undergraduate students looking to break into Product Management, so the best ways to use are:
-- Ask for help on [LinkedIn](https://www.linkedin.com/in/kylegillaspy/)
+- Ask for help on LinkedIn: [Kyle](https://www.linkedin.com/in/kylegillaspy/) [Alex](https://www.linkedin.com/in/alexmatthewfong/)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
 - Go through our - [Table of Contents](#table-of-contents)
 
-*Contributors to the list are featured in section, [Contributors](#contributors)*
+*Contributors to the list are featured in section: [Contributors](#contributors)*
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
     - [What is Product Management](#what-is-product-management)
-- [Section 2: Internship Prep](#section-2-internship-prep)
+- [Section 2: Internship Preperation](#section-2-internship-preparation)
     - [Product Management (PM) Internship Timeline](#product-management-pm-internship-timeline)
     - [APM vs. PM](#apm-vs-pm)
     - [Books](#books)
     - [Articles](#articles)
     - [Newsletters](#newsletters)
     - [Using Social Media](#using-social-media)
+- [Section 3: Internship and Job Postings](#section-3-internship-and-job-postings)
+- [Office Hours & Advising](#office-hours-and-advising)
+- [Contributors](#contributors)
 
 # Section 1: The Basics
 ## What Is Product Management?
@@ -43,7 +39,7 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
-# Section 2: Internship Prep
+# Section 2: Internship Preparation
 [Not all Product Management Internships require a CS degree](https://swipetounlock.com/joblist)!! PM Internships are all titled similarly, but they may have very different responsibilities from company to company Make sure to read the job description and keep in mind the difference between Product, Program, and Project Management.
 
 ## Product Management PM Internship Timeline
@@ -127,6 +123,16 @@ A few established and elite companies have instituted APM (Associate Product Man
 - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
 
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/ps-ucsd-logo-crop.png)
+
+# Section 3: Internship and Job Postings
+
+# Office Hours and Advising
+Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
+- [Kyle Gillaspy](https://calendly.com/product-space-kyle)
+- [Alex Fong](https://calendly.com/alexmatthewfong/30min)
+
+To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/Alex/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
+
 # Contributors
 If you are interested in contributing to this resource, please contact ucsd@productspace.org
 - Kyle Gillaspy https://www.linkedin.com/in/kylegillaspy/
