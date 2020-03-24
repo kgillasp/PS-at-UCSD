@@ -42,7 +42,7 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 # Section 2: Internship Prep
-Not all Product Management Internships [do not require a CS degree](https://swipetounlock.com/joblist)!! PM Internships are all titled similarly, but they may have very different responsibilities from company to company Make sure to read the job description and keep in mind the difference between Product, Program, and Project Management.
+[Not all Product Management Internships require a CS degree](https://swipetounlock.com/joblist)!! PM Internships are all titled similarly, but they may have very different responsibilities from company to company Make sure to read the job description and keep in mind the difference between Product, Program, and Project Management.
 
 ## Product Management PM Internship Timeline
 Do not wait. Product Manager Internships are often flooded with applicants within a few days. Google and Facebook limit their applicants, and LinkedIn did not even look at outside applications this past year. You can expect Internships to open beginnning in July with the Financial companies like Morgan Stanley and Goldman Sachs. Followed closesly at the beginning of August, closing around the end of the year.
