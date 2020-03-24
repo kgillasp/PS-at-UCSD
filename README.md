@@ -5,10 +5,12 @@
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-## Office Hours
-Our Board Members are here to answer questions about the content found down below or Product Management in general. We offer individual 1-1 meetings as well as larger group discussions open to anyone. Check out our Calendly links below!
+## Office Hours and Advising
+Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
 - [Kyle Gillaspy](https://calendly.com/product-space-kyle)
+- [Alex Fong](https://calendly.com/alexmatthewfong/30min)
 
+To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/Alex/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
 
 ## How to Use
 PS @ UCSD's Product Management Resource is an amazing source of content for undergraduate students looking to break into Product Management, so the best ways to use are:
@@ -128,5 +130,6 @@ A few established and elite companies have instituted APM (Associate Product Man
 # Contributors
 If you are interested in contributing to this resource, please contact ucsd@productspace.org
 - Kyle Gillaspy https://www.linkedin.com/in/kylegillaspy/
+- Alex Fong https://www.linkedin.com/in/alexmatthewfong/
 
 
