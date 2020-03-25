@@ -6,7 +6,7 @@
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
 ## How to Use
-PS @ UCSD's Product Management Resource is an amazing source of content for undergraduate students looking to break into Product Management, so the best ways to use are:
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management, so the best ways to use are:
 - Ask for help on LinkedIn from [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/) or [Alex Fong](https://www.linkedin.com/in/alexmatthewfong/)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
 - Go through our - [Table of Contents](#table-of-contents)
