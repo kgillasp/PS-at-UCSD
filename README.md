@@ -15,6 +15,7 @@ PS @ UCSD's Product Management Resource is an amazing source of content **specif
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
+    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have?)
     - [What is Product Management (PM)](#what-is-product-management-pm)
     - [Product vs Program vs Project](#42)
 - [Section 2: Internship Preperation](#section-2-internship-preparation)
@@ -33,6 +34,29 @@ PS @ UCSD's Product Management Resource is an amazing source of content **specif
 - [Contributors](#contributors)
 
 # Section 1: The Basics
+## What Product Resources does UC San Diego Have?
+UC San Diego does not have many resources for its aspiring Product Managers
+- [Product Space Office Hours](#office-hours-and-advising)
+- Courses
+  - CSE 110 Software Engineering - Agile Processes, Sprint planning, User Stories, Retrospectives and Velocity
+  - CSE 112 Advanced Software Engineering - Testing, Software Design
+  - CSE 100 Advanced Data Structures - Provides solid technical background for more tech-focused PM roles
+  - MGT 18 Managing Diverse Teams - Provides insight as to what a great leader looks like
+  - MGT 103 Product Marketing and Management
+  - MGT 172 Project Management - Provides technical terminology for Project Management, some agile experience
+  - MGT 187 New Venture Finance - Pitching and justifying your design choices
+  - ENG 100D Design for Development - Consulting for non-profits, design process
+- UCSD Extension
+  - [Product Management Course](https://extension.ucsd.edu/courses-and-programs/product-management)
+  - [Project Management and Lean Six Sigma Black Belt](https://extension.ucsd.edu/courses-and-programs/project-management-courses-san-diego)
+- Organizations
+  - [Product Space at UCSD](https://www.productspace.org/)
+  - [Design Co](http://www.ucsddesign.co/)
+  - [Triton Software Engineering](http://tse.ucsd.edu/)
+  - [Design for America](http://dfaucsd.org/)
+  - [Fi](https://fi-ucsd.com/) 
+  - [Adwave](https://www.ucsdadwave.org/)
+
 ## What Is Product Management (PM)?
 - [ ] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
 - [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
@@ -98,6 +122,12 @@ PS @ UCSD's Product Management Resource is an amazing source of content **specif
   - [Jeff Patton](https://twitter.com/jeffpatton) Technical Author for Product
   - [Ken Norton](https://twitter.com/kennethn) Founder: Bring the Donuts, Google PM
   - [Jeff Morris Jr.](https://twitter.com/jmj) Founder: ChapterOne, Head of Revenue at Tinder
+  
+- Facebook: Groups are a great way to stay updated
+  - [Subtle Asian Product Management]
+  - [HH Product Management]
+  - [Product Space UCSD]
+  - [Tech Recruiter Email Sharing]
 
 ## Podcasts
 - PM Podcasts
