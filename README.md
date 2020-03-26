@@ -6,7 +6,7 @@
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
 ## How to Use
-PS @ UCSD's Product Management Resource is an amazing source of content for undergraduate students looking to break into Product Management, so the best ways to use are:
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management, so the best ways to use are:
 - Ask for help on LinkedIn from [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/) or [Alex Fong](https://www.linkedin.com/in/alexmatthewfong/)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
 - Go through our - [Table of Contents](#table-of-contents)
@@ -15,9 +15,11 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
+    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have?)
     - [What is Product Management (PM)](#what-is-product-management-pm)
-    - [Product vs Program vs Project](#42)
-- [Section 2: Internship Preperation](#section-2-internship-preparation)
+    - [Product vs Program vs Project](#product-vs-program-vs-project)
+- [Section 2: Internship Preparation](#section-2-internship-preparation)
+    - [Resume](#resume)
     - [Books](#books)
     - [Articles](#articles)
     - [Newsletters](#newsletters)
@@ -25,14 +27,39 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
     - [Podcasts](#podcasts)
     - [More Resources](#more-resources)
 - [Section 3: The Recruitment Process](#section-3-the-recruitment-process)
-    - [Salary](#salary)
     - [PM Internship Timeline](#pm-internship-timeline)
-    - [APM vs. PM](#apm-vs-pm)
-    - [Internships and Job Postings](#internships-and-job-postings)
+    - [Finding Internships](#finding-internships)
+    - [APM vs PM](#apm-vs-pm)
+    - [Salary](#salary)
+    - [Internship and Job Postings](#internship-and-job-postings)
 - [Office Hours & Advising](#office-hours-and-advising)
 - [Contributors](#contributors)
 
 # Section 1: The Basics
+## What Product Resources does UC San Diego Have?
+As an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
+- [Product Space Office Hours](#office-hours-and-advising)
+- Courses
+  - CSE 110 Software Engineering - Agile Processes, Sprint planning, User Stories, Retrospectives and Velocity
+  - CSE 112 Advanced Software Engineering - Testing, Software Design
+  - CSE 100 Advanced Data Structures - Provides solid technical background for more tech-focused PM roles
+  - MGT 18 Managing Diverse Teams - Provides insight as to what a great leader looks like
+  - MGT 103 Product Marketing and Management
+  - MGT 164 Business and Organizational Leadership
+  - MGT 172 Project Management - Provides technical terminology for Project Management, some agile experience
+  - MGT 187 New Venture Finance - Pitching and justifying your design choices
+  - ENG 100D Design for Development - Consulting for non-profits, design process
+- UCSD Extension
+  - [Product Management Course](https://extension.ucsd.edu/courses-and-programs/product-management)
+  - [Project Management and Lean Six Sigma Black Belt](https://extension.ucsd.edu/courses-and-programs/project-management-courses-san-diego)
+- Organizations
+  - [Product Space at UCSD](https://www.productspace.org/)
+  - [Design Co](http://www.ucsddesign.co/)
+  - [Triton Software Engineering](http://tse.ucsd.edu/)
+  - [Design for America](http://dfaucsd.org/)
+  - [Fi](https://fi-ucsd.com/) 
+  - [Adwave](https://www.ucsdadwave.org/)
+
 ## What Is Product Management (PM)?
 - [ ] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
 - [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
@@ -44,8 +71,30 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
+## Product vs Program vs Project
+  - [ ] []
+
 # Section 2: Internship Preparation
-[Not all Product Management Internships require a CS degree](https://swipetounlock.com/joblist)!! PM Internships are all titled similarly, but they may have very different responsibilities from company to company Make sure to read the job description and keep in mind the difference between Product, Program, and Project Management.
+Before you even start to apply to Product Management Positions, you should be sure to have a solid idea of what exactly you are applying to. In the previous section you learned the basics, but now it's time to become competitive. 
+
+## Resume
+- Cover Letter
+  - Unless you're applying to Bain or McKinsey, chances are you do not need a cover letter. A few companies may ask you to write a few short sentences about their product, but a cover letter is often a waste of time.
+- One Page of Goodness (General Resume Tips)
+  - One page, fill the page
+  - 3-5 bullets per position -> formula: Verb ___ because/to ___ insight. Make sure to use metrics (numbers) where applicable
+  - Include relevant PM technologies: Jira, Tableau, SQL, Agile, Scrum, SDLC, etc.
+  - Emphasize Product Management and Leadership
+  - Example resume and template [here](https://github.com/kgillasp/Resume/blob/master/README.md)
+- LinkedIn - The Online Resume
+  - Use your profile to tell a narrative. Why have your experiences shaped you to become a PM? If they haven't... craft a compelling narrative!
+  - Keep your industry in mind: Silicon Valley? Let your personality shine through. Wall Street? Maybe wear a suit.
+  - Highlight **Leadership** and **Initiative**
+  - Do not repeat your resume in your experience descriptions. You have more room -- use it!
+  - Do not be afraid to copy -- check out our example [LinkedIn Profiles](#using-social-media)
+- Personal Website (optional)
+  - Creating a personal website is a great way to showcase your work and build your personal brand
+  - Consider making a website if you feel your resume and LinkedIn do not tell the whole story
 
 ## Books
 - [ ] [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
@@ -54,6 +103,7 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 - [ ] [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
 
 ## Articles
+- [ ] [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
 - [ ] [Navigating the APM recruiting process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5) — Justina Chen
 - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) — Fernando Delgado
 - [ ] [Preparing for the Associate Product Manager interview](https://blog.pmlesson.com/preparing-associate-product-manager-interview/) — Hamsa Pillai, Google APM
@@ -75,12 +125,12 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 
 ## Using Social Media
 - LinkedIn: Check out what other Students have done to break into PM
-  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/)
   - [Andy Huang](https://www.linkedin.com/in/andyhuang0/)
   - [Ismail Azam](https://www.linkedin.com/in/ismailazam/)
   - [Lily Li](https://www.linkedin.com/in/lilyxinyuanli/)
   - [Hamza Kawaja](https://www.linkedin.com/in/onlyhamza/)
   - [Ryan Hill](https://www.linkedin.com/in/ryanjosephhill/)
+  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/)
   - [Bryce Hawthorne](https://www.linkedin.com/in/bryce-hawthorne-648175118/)
   - [Gefen Skolnick](https://www.linkedin.com/in/gefenskolnick/)
   - [Ankur Papneja](https://www.linkedin.com/in/ankurpapneja/)
@@ -98,6 +148,12 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
   - [Jeff Patton](https://twitter.com/jeffpatton) Technical Author for Product
   - [Ken Norton](https://twitter.com/kennethn) Founder: Bring the Donuts, Google PM
   - [Jeff Morris Jr.](https://twitter.com/jmj) Founder: ChapterOne, Head of Revenue at Tinder
+  
+- Facebook: Groups are a great way to stay updated
+  - [Subtle Asian Product Management](https://www.facebook.com/groups/367349420707571/?ref=group_browse)
+  - [HH Product Management](https://www.facebook.com/groups/hhProductManagement/?ref=bookmarks)
+  - [Product Space UCSD](https://www.facebook.com/productspaceucsd/)
+  - [Tech Recruiter Email Sharing](https://www.facebook.com/groups/2054888934622756/?ref=group_browse)
 
 ## Podcasts
 - PM Podcasts
@@ -118,7 +174,7 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
     - [ ] [UI Breakfast](https://podcasts.apple.com/us/podcast/ui-breakfast-ui-ux-design-and-product-strategy/id939175693)
 - Tech News
     - [ ] [Marketplace Tech](https://podcasts.apple.com/us/podcast/marketplace-tech/id73330855)
-    - [ ] [The Futur with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
+    - [ ] [The Future with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
     - [ ] [The Crazy One](https://podcasts.apple.com/us/podcast/the-crazy-one/id1128248295)
     - [ ] [Clockwise](https://podcasts.apple.com/us/podcast/clockwise/id665964031)
     - [ ] [The WIRED Podcast](https://podcasts.apple.com/us/podcast/the-wired-podcast/id404893471)
@@ -133,18 +189,44 @@ PS @ UCSD's Product Management Resource is an amazing source of content for unde
 - [Get Better at Programming with LeetCode](https://leetcode.com/explore/)
 
 # Section 3: The Recruitment Process
+Now that you have a thorough knowledge of what being a Product Manager is all about, it's time to apply to positions.
 
-## Salary
-- [ ] [Negotiate Your Salary (Even Interns!)](https://candor.co/guides/salary-negotiation/)
-- [ ] [How much do PM's get paid?](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Product%20Manager)
+[Not all Product Management Internships require a CS degree](https://swipetounlock.com/joblist)!! PM Internships are all titled similarly, but they may have very different responsibilities from company to company. Make sure to read the job description and keep in mind the difference between Product, Program, and Project Management.
 
 ## PM Internship Timeline
-Do not wait. Product Manager Internships are often flooded with applicants within a few days. Google and Facebook limit their applicants, and LinkedIn did not even look at outside applications this past year. You can expect Internships to open beginnning in July with the Financial companies like Morgan Stanley and Goldman Sachs. Followed closesly by the major tech companies starting at the beginning of August and closing around the end of the year.
+Do not wait. Product Manager Internships are often flooded with applicants within a few days. Google and Facebook limit their applicants, and LinkedIn did not even look at outside applications this past year. You can expect Internships to open beginning in July with the Financial companies like Morgan Stanley and Goldman Sachs. Followed closely by the major tech companies starting at the beginning of August and closing around the end of the year.
 - [ ] [General Intern Hiring Schedule](https://www.internqueen.com/know-your-deadlines-official-intern-hiring-schedule-year) —Lauren Berger
 - [ ] [APM Program Timeline](http://internship-timeline.com/product.html)
 
+## Finding Internships
+First and foremost -- believe in yourself. With time and dedication, getting a PM internship is possible. With this being said, make sure to **start early and start often.** Here are some tips and tricks to find PM Internships.
+  - Attend Career Fairs
+    - Talk to everyone, not only is it good practice, but often times positions are reserved for only those who ask
+    - A personal connection is much more powerful than an online impression
+  - Utilize Job Websites
+    - [LinkedIn](https://www.linkedin.com/jobs/)
+    - [Glassdoor](https://www.glassdoor.com/index.htm)
+    - [Handshake](https://www.joinhandshake.com/)
+    - [Indeed](https://www.indeed.com/)
+    - [Jumpstart](https://jumpstart.me/)
+    - [WayUp](https://www.wayup.com/member/jobs-listing)
+    - [AngelList](https://angel.co/jobs)
+    - [Jobbio](https://jobbio.com/)
+    - [RippleMatch](https://ripplematch.com/)
+    - [Zippia](https://www.zippia.com/)
+  - Make sure to search the following keywords, as SEO will return various results
+    - "Product Manager Intern"
+    - "Product Management Intern"
+    - "Associate Product Manager Intern"
+    - "Associate Product Management Intern"
+    - "Program Manager Intern"
+    - "Project Management Intern"
+  - Take advantage of job alerts, set up weekly or daily emails with new jobs matching keywords
+  - Use referrals, a list of PS Board Members offering referrals will be made available in *June*
+  - Follow recruiters on LinkedIn (not "connect", "follow")
+  
 ## APM vs PM
-A few established and elite companies have instituted APM (Associate Product Manager) Programs. These programs are extremely competitive and often attract the best and brightest undergrauate students. They are typically small cohorts (6-10 students per year), emphasize Product Management and Leadership, and last 1.5-2 years. Product Management Internships are typically more plentiful and have the potential to be *slightly* less competitive -- but this depends a lot on the company. They depend much more on your assigned team as well as the structure of the company that is employing you. Between the two, there is no concrete advantage to either. A Product Management Internship is really what you make of it. The more initiative and passion you put into your product, the more your manager will help you out. 
+A few established and elite companies have instituted APM (Associate Product Manager) Programs. These programs are extremely competitive and often attract the best and brightest undergraduate students. They are typically small cohorts (6-10 students per year), emphasize Product Management and Leadership, and last 1.5-2 years. Product Management Internships are typically more plentiful and have the potential to be *slightly* less competitive -- but this depends a lot on the company. They depend much more on your assigned team as well as the structure of the company that is employing you. Between the two, there is no concrete advantage to either. A Product Management Internship is really what you make of it. The more initiative and passion you put into your product, the more your manager will help you out. 
 
 - Companies Offering APM Programs
   - [Google](https://buildyourfuture.withgoogle.com/programs/apm-program)
@@ -167,9 +249,14 @@ A few established and elite companies have instituted APM (Associate Product Man
   - [Schmidt Futures](https://schmidtfutures.com/our-work/talent/associate-product-manager/apm-program/)
   - [Publicis Sapient](https://careers.publicissapient.com/students/usa-canada/product-management)
 
-## Internships and Job Postings
-- Use Indeed to find internships and full-time roles!
-- We will post available positions below! (Currently Empty)
+## Internship and Job Postings
+Our Team will be maintaining an open GSheet with links to selected internships for the upcoming application cycle.
+  - *Link will be available in June*
+
+## Salary
+This really won't be applicable for most intern positions. However once you reach full-time offers or feel that you are not being paid a fair wage, check out these articles to make sure you secure the bag.
+- [ ] [Negotiate Your Salary (Even Interns!)](https://candor.co/guides/salary-negotiation/)
+- [ ] [How much do PM's get paid?](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Product%20Manager)
 
 # Office Hours and Advising
 Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
