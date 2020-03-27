@@ -14,7 +14,7 @@ Be sure to check out our office hours!
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
-    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have?)
+    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
     - [What is Product Management (PM)](#what-is-product-management-pm)
 - [Section 2: Internship Preparation](#section-2-internship-preparation)
     - [Resume](#resume)
@@ -130,7 +130,7 @@ To study for this portion of the interview, check out [Swipe to Unlock](https://
 - [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html)
 
 
-## Analysis aka Fermi Questions
+## Analysis aka Fermi Problems
 Product Managers are fluent with numbers, and are able to validate and effectively present data and articulate their analyses. They are comfortable using metrics and data to make decisions. This role may require decision-making from A/B test results, writing SQL queries, or running scripts to extract data from logs.
 Example interview questions:
 - How many scooters does Lime need in San Francisco?
