@@ -8,6 +8,10 @@ You can expect to find relevant frameworks, interviews, experts, resources, book
 PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. This is by no means an exhaustive list of all possible Product Management resources, however it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
 the [Contributors](#contributors) section.
 
+Be sure to check out our office hours!
+[Office Hours & Advising](#office-hours-and-advising)
+
+
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
     - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have?)
@@ -37,7 +41,6 @@ the [Contributors](#contributors) section.
 # Section 1: The Basics
 ## What Product Resources does UC San Diego Have?
 As an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
-- [Product Space Office Hours](#office-hours-and-advising)
 - Courses
   - CSE 110 Software Engineering - Agile Processes, Sprint planning, User Stories, Retrospectives and Velocity
   - CSE 112 Advanced Software Engineering - Testing, Software Design
@@ -58,6 +61,7 @@ As an aspiring PM at UCSD, what resources do you have? The answer: not many. Non
   - [Design for America](http://dfaucsd.org/)
   - [Fi](https://fi-ucsd.com/) 
   - [Adwave](https://www.ucsdadwave.org/)
+  
 
 ## What Is Product Management (PM)?
 - [ ] [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/)
@@ -112,7 +116,7 @@ Example interview questions:
 
 This is the most difficult part of interview. Why? Because it is completely open-ended, requires a deep knowledge of the product, and a justification of your proposed idea. This is answered directly to someone who has most likely spent a good portion of their life pouring effort into said product. The last thing you want to do is be caught off-gaurd when asked to choose a product to improve given x conditions. Thankfully, you have time to prepare. 
 
-Often, the best solutions come out of your frustrations. Try to think about what you would love the product to do in an ideal world. There are many different approaches to this portion of the interview, for more informtation be sure to check out [The Product Manager Interview](https://www.lewis-lin.com/the-product-manager-interview-lewis-lin).
+Often, the best solutions come out of your frustrations. Try to think about what you would love the product to do in an ideal world. There are many different approaches to this portion of the interview, for more informtation be sure to check out [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things/)and  [The Product Manager Interview](https://www.lewis-lin.com/the-product-manager-interview-lewis-lin).
 
 ## Product Strategy
 Get very familiar with the company's competitive landscape and vision for the future, the mobile market, the ad market, and internet and technology in general. Be able to discuss long term product roadmaps and strategies to increase market share.
