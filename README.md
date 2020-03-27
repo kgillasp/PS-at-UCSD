@@ -61,19 +61,18 @@ As an aspiring PM at UCSD, what resources do you have? The answer: not many. Non
   - [Design for America](http://dfaucsd.org/)
   - [Fi](https://fi-ucsd.com/) 
   - [Adwave](https://www.ucsdadwave.org/)
-  
 
 ## What Is Product Management (PM)?
-- [ ] [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/)
-- [ ] [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
-- [ ] [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-- [ ] [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
-- [ ] [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
-- [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-- [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-- [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+- [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/)
+- [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
+- [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+- [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
+- [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
+- [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+- [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+- [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
+- [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 # Section 2: Internship Preparation
 Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The most common are In the previous section you learned the basics, but now it's time to become competitive. 
@@ -116,13 +115,14 @@ Example interview questions:
 
 This is the most difficult part of interview. Why? Because it is completely open-ended, requires a deep knowledge of the product, and a justification of your proposed idea. This is answered directly to someone who has most likely spent a good portion of their life pouring effort into said product. The last thing you want to do is be caught off-gaurd when asked to choose a product to improve given x conditions. Thankfully, you have time to prepare. 
 
-Often, the best solutions come out of your frustrations. Try to think about what you would love the product to do in an ideal world. There are many different approaches to this portion of the interview, for more informtation be sure to check out [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things/)and  [The Product Manager Interview](https://www.lewis-lin.com/the-product-manager-interview-lewis-lin).
+Often, the best solutions come out of your frustrations. Try to think about what you would love the product to do in an ideal world. There are many different approaches to this portion of the interview, for more informtation be sure to check out [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things/) and [The Product Manager Interview](https://www.lewis-lin.com/the-product-manager-interview-lewis-lin).
 
 ## Product Strategy
 Get very familiar with the company's competitive landscape and vision for the future, the mobile market, the ad market, and internet and technology in general. Be able to discuss long term product roadmaps and strategies to increase market share.
 Example interview questions:
 - If you were Uber’s CEO, would you be concerned about Postmates?
 - How should Microsoft Teams position its feature releases to stay competitive with Slack?
+
 To study for this portion of the interview, check out [Swipe to Unlock](https://swipetounlock.com/) and the following case studies:
 - [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3)
 - [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html)
@@ -136,12 +136,15 @@ Example interview questions:
 - How many scooters does Lime need in San Francisco?
 - How many Androids sell in the US each year?
 - How do you know if the product is successful?
+
 These questions are covered extensively in [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer) and [Cracking the PM Interview](http://www.crackingthepminterview.com/)
+
 ## Technical Ability
 In order to prepare, you should review basic algorithms and computer science fundamentals, a large part of your credibility with engineers will be rooted in your technical competence.
 Example interview questions:
 - Write an algorithm that detects and alerts meeting conflicts.
 - How is a set different from an array?
+
 Most technical questions will be LeetCode easy or medium. This is not the focus of the interview. Do not get caught up on the technical aspect, as some Product Management Interviews will disregard this portion of the interview entirely. To brush up, visit the following resources:
 - [Get Better at Programming with LeetCode](https://leetcode.com/explore/)
 - [TripleByte](https://triplebyte.com/)
@@ -150,10 +153,13 @@ Most technical questions will be LeetCode easy or medium. This is not the focus 
 - [Coursera](https://www.coursera.org/)
 
 ## Interview Tips and Tricks from our Board Members
-  - Always research your interviewer/team on LinkedIn and learn the state of the market for that product
+  - Practice explaining complicated product workflows or CS topics to improve your speaking skills
+  - MOCK INTERVIEW!! Try to interview with multiple people before the real deal -- take it seriously.
+  - Always research your interviewer/team on LinkedIn and learn the ins and outs of the market for that product
   - Know the difference between B2B (Business to Business) products and B2C (Business to Consumer) products and how they affect strategy
   - Come up with features you would like to develop for the team you'd be on if you were hired
-  - Always have well-thought questions ready to go
+  - Clarify the position. Product Management varies widely -- make sure you are interested in the position's responsibilities
+  - Always have well-thought questions ready to go (Think interviewer background, product knowlegde, interesting connections)
   - Identify your market and clarify your problem, never begin developing before you know the scope
   - Find previous interns on the team and reach out to them for interview prep -- [people want to help!!](#using-social-media)
 
@@ -161,15 +167,15 @@ Most technical questions will be LeetCode easy or medium. This is not the focus 
 Social media is not required, however to stay competitive with other aspiring undergraduate Product Managers, it is wise to keep up to date with the community. Social media can also be leveraged to establish your brand and to build your network.
 
 LinkedIn: Check out what other Students have done to break into PM
-  - [Andy Huang](https://www.linkedin.com/in/andyhuang0/)
-  - [Ismail Azam](https://www.linkedin.com/in/ismailazam/)
-  - [Lily Li](https://www.linkedin.com/in/lilyxinyuanli/)
-  - [Hamza Kawaja](https://www.linkedin.com/in/onlyhamza/)
-  - [Ryan Hill](https://www.linkedin.com/in/ryanjosephhill/)
-  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/)
-  - [Bryce Hawthorne](https://www.linkedin.com/in/bryce-hawthorne-648175118/)
-  - [Gefen Skolnick](https://www.linkedin.com/in/gefenskolnick/)
-  - [Ankur Papneja](https://www.linkedin.com/in/ankurpapneja/)
+  - [Andy Huang](https://www.linkedin.com/in/andyhuang0/) UCLA
+  - [Ismail Azam](https://www.linkedin.com/in/ismailazam/) Cal
+  - [Lily Li](https://www.linkedin.com/in/lilyxinyuanli/) Cal
+  - [Hamza Kawaja](https://www.linkedin.com/in/onlyhamza/) Cal
+  - [Ryan Hill](https://www.linkedin.com/in/ryanjosephhill/) UCSD
+  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/) UCSD
+  - [Bryce Hawthorne](https://www.linkedin.com/in/bryce-hawthorne-648175118/) UCSD
+  - [Gefen Skolnick](https://www.linkedin.com/in/gefenskolnick/) UCLA
+  - [Ankur Papneja](https://www.linkedin.com/in/ankurpapneja/) UCLA
   
 Twitter: Find and follow Product-Focused Content and Leaders
   - [Product Hunt](https://twitter.com/ProductHunt) For all the latest products
@@ -193,62 +199,61 @@ Facebook: Groups are a great way to stay updated
 
 
 ## Books
-- [ ] [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
-- [ ] [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer)
-- [ ] [Cracking the PM Interview](http://www.crackingthepminterview.com/)
-- [ ] [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
-- [ ] [Swipe to Unlock](https://swipetounlock.com/)
+- [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
+- [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer)
+- [Cracking the PM Interview](http://www.crackingthepminterview.com/)
+- [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
+- [Swipe to Unlock](https://swipetounlock.com/)
 
 ## Articles
-- [ ] [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
-- [ ] [Navigating the APM recruiting process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5) — Justina Chen
-- [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) — Fernando Delgado
-- [ ] [Preparing for the Associate Product Manager interview](https://blog.pmlesson.com/preparing-associate-product-manager-interview/) — Hamsa Pillai, Google APM
-- [ ] [Cracking the Uber Associate Product Manager (APM) Interview](https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec) — Andy Walner
-- [ ] [What to Expect When Interviewing as a Product Manager at Lyft](https://eng.lyft.com/what-to-expect-when-interviewing-as-a-pm-at-lyft-fd13634ca381) — Dan Barak
-- [ ] [How to prepare for the Google APM interview](https://blog.usejournal.com/how-to-prepare-for-your-google-apm-interviews-b665584c13fc) — Neil Mehta
-- [ ] [Facebook RPM Program: From Prep to Offer](https://medium.com/@jewellim/facebook-rpm-program-from-prep-to-offer-2d1be3772db8) — Jewel Lim
-- [ ] [LinkedIn Product Manager Interview: What to expect and how to prepare](https://interviewsteps.com/blogs/news/linkedin-product-manager-interview-what-to-expect-and-how-to-prepare) — Interview Steps
-- [ ] [How To Get A Job At Twitter](https://www.fastcompany.com/40545463/how-to-get-a-job-at-twitter) — Michael Grothaus
-- [ ] [How can I prepare for an Intuit interview?](https://www.quora.com/How-can-I-prepare-for-an-Intuit-interview) — Quora
-- [ ] [What should I expect in a Product Manager interview at Atlassian, and how should I prepare?](https://www.quora.com/What-should-I-expect-in-a-Product-Manager-interview-at-Atlassian-and-how-should-I-prepare) — Quora
+- [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
+- [Navigating the APM recruiting process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5) — Justina Chen
+- [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) — Fernando Delgado
+- [Preparing for the Associate Product Manager interview](https://blog.pmlesson.com/preparing-associate-product-manager-interview/) — Hamsa Pillai, Google APM
+- [Cracking the Uber Associate Product Manager (APM) Interview](https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec) — Andy Walner
+- [What to Expect When Interviewing as a Product Manager at Lyft](https://eng.lyft.com/what-to-expect-when-interviewing-as-a-pm-at-lyft-fd13634ca381) — Dan Barak
+- [How to prepare for the Google APM interview](https://blog.usejournal.com/how-to-prepare-for-your-google-apm-interviews-b665584c13fc) — Neil Mehta
+- [Facebook RPM Program: From Prep to Offer](https://medium.com/@jewellim/facebook-rpm-program-from-prep-to-offer-2d1be3772db8) — Jewel Lim
+- [LinkedIn Product Manager Interview: What to expect and how to prepare](https://interviewsteps.com/blogs/news/linkedin-product-manager-interview-what-to-expect-and-how-to-prepare) — Interview Steps
+- [How To Get A Job At Twitter](https://www.fastcompany.com/40545463/how-to-get-a-job-at-twitter) — Michael Grothaus
+- [How can I prepare for an Intuit interview?](https://www.quora.com/How-can-I-prepare-for-an-Intuit-interview) — Quora
+- [What should I expect in a Product Manager interview at Atlassian, and how should I prepare?](https://www.quora.com/What-should-I-expect-in-a-Product-Manager-interview-at-Atlassian-and-how-should-I-prepare) — Quora
 
 ## Newsletters
-- [ ] [Bringing the Donuts](https://www.kennorton.com/newsletter/)
-- [ ] [Contrary Capital](https://contrarycap.us14.list-manage.com/subscribe/post?u=ee534cdf5428dffcf0c7b7b97&id=efedc9a79c)
-- [ ] [Products That Count](https://us2.list-manage.com/subscribe?u=a71d86573e9585886754d15bf&id=9fd0996d3b)
-- [ ] [Mind the Product](https://www.mindtheproduct.com/product-management-newsletter/?utm_content=buffer8851c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [ ] [Stratechery - Paid](https://stratechery.com/daily-update/)
+- [Bringing the Donuts](https://www.kennorton.com/newsletter/)
+- [Contrary Capital](https://contrarycap.us14.list-manage.com/subscribe/post?u=ee534cdf5428dffcf0c7b7b97&id=efedc9a79c)
+- [Products That Count](https://us2.list-manage.com/subscribe?u=a71d86573e9585886754d15bf&id=9fd0996d3b)
+- [Mind the Product](https://www.mindtheproduct.com/product-management-newsletter/?utm_content=buffer8851c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Stratechery - Paid](https://stratechery.com/daily-update/)
 
 ## Podcasts
-- PM Podcasts
-    - [ ] [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
-    - [ ] [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787)
-    - [ ] [Agile Uprising Podcast](https://podcasts.apple.com/us/podcast/agile-uprising-podcast/id1163230424)
-    - [ ] [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
-    - [ ] [Yours Productly](https://podcasts.apple.com/us/podcast/yours-productly/id972149733)
-    - [ ] [Product to Product](https://podcasts.apple.com/us/podcast/product-to-product/id1293415837)
-    - [ ] [Product Talk](https://podcasts.apple.com/us/podcast/product-talk/id1038890550)
-    - [ ] [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
-    - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
-- UX Podcasts
-    - [ ] [The Product Experience](https://podcasts.apple.com/us/podcast/the-product-experience/id1447100407)
-    - [ ] [Design Better Podcast](https://podcasts.apple.com/us/podcast/design-better-podcast/id1266839739)
-    - [ ] [Design Details](https://podcasts.apple.com/us/podcast/design-details/id947191070)
-    - [ ] [User Defenders](https://podcasts.apple.com/us/podcast/user-defenders-ux-design-and-personal-growth/id1055121160)
-    - [ ] [UI Breakfast](https://podcasts.apple.com/us/podcast/ui-breakfast-ui-ux-design-and-product-strategy/id939175693)
-- Tech News
-    - [ ] [Marketplace Tech](https://podcasts.apple.com/us/podcast/marketplace-tech/id73330855)
-    - [ ] [The Future with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
-    - [ ] [The Crazy One](https://podcasts.apple.com/us/podcast/the-crazy-one/id1128248295)
-    - [ ] [Clockwise](https://podcasts.apple.com/us/podcast/clockwise/id665964031)
-    - [ ] [The WIRED Podcast](https://podcasts.apple.com/us/podcast/the-wired-podcast/id404893471)
-    - [ ] [WSJ Tech News Briefing](https://podcasts.apple.com/us/podcast/wsj-tech-news-briefing/id74844126)
-    - [ ] [Daily Tech News Show](https://podcasts.apple.com/us/podcast/daily-tech-news-show/id790864884)
-- Others
-    - [ ] [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334)
-    - [ ] [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684)
-
+PM Podcasts
+- [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
+- [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787)
+- [Agile Uprising Podcast](https://podcasts.apple.com/us/podcast/agile-uprising-podcast/id1163230424)
+- [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
+- [Yours Productly](https://podcasts.apple.com/us/podcast/yours-productly/id972149733)
+- [Product to Product](https://podcasts.apple.com/us/podcast/product-to-product/id1293415837)
+- [Product Talk](https://podcasts.apple.com/us/podcast/product-talk/id1038890550)
+- [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
+- [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
+UX Podcasts
+- [The Product Experience](https://podcasts.apple.com/us/podcast/the-product-experience/id1447100407)
+- [Design Better Podcast](https://podcasts.apple.com/us/podcast/design-better-podcast/id1266839739)
+- [Design Details](https://podcasts.apple.com/us/podcast/design-details/id947191070)
+- [User Defenders](https://podcasts.apple.com/us/podcast/user-defenders-ux-design-and-personal-growth/id1055121160)
+- [UI Breakfast](https://podcasts.apple.com/us/podcast/ui-breakfast-ui-ux-design-and-product-strategy/id939175693)
+Tech News
+- [Marketplace Tech](https://podcasts.apple.com/us/podcast/marketplace-tech/id73330855)
+- [The Future with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
+- [The Crazy One](https://podcasts.apple.com/us/podcast/the-crazy-one/id1128248295)
+- [Clockwise](https://podcasts.apple.com/us/podcast/clockwise/id665964031)
+- [The WIRED Podcast](https://podcasts.apple.com/us/podcast/the-wired-podcast/id404893471)
+- [WSJ Tech News Briefing](https://podcasts.apple.com/us/podcast/wsj-tech-news-briefing/id74844126)
+- [Daily Tech News Show](https://podcasts.apple.com/us/podcast/daily-tech-news-show/id790864884)
+Others
+- [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334)
+- [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684)
 ## More Resources
 Lastly, we will leave you with the resource that inspired the creation of a student-focused resource. It is geared towards those already in industry with a few years of experience, but if you feel like you're ready -- or just want an extra edge -- check it out!
 - [Open Product Management Resources](https://github.com/ProductHired/open-product-management/blob/master/README.md#career-prep-company-types)
@@ -260,8 +265,8 @@ Now that you have a thorough knowledge of what being a Product Manager is all ab
 
 ## PM Internship Timeline
 Do not wait. Product Manager Internships are often flooded with applicants within a few days. Google and Facebook limit their applicants, and LinkedIn did not even look at outside applications this past year. You can expect Internships to open beginning in July with the Financial companies like Morgan Stanley and Goldman Sachs. Followed closely by the major tech companies starting at the beginning of August and closing around the end of the year.
-- [ ] [General Intern Hiring Schedule](https://www.internqueen.com/know-your-deadlines-official-intern-hiring-schedule-year) —Lauren Berger
-- [ ] [APM Program Timeline](http://internship-timeline.com/product.html)
+- [General Intern Hiring Schedule](https://www.internqueen.com/know-your-deadlines-official-intern-hiring-schedule-year) —Lauren Berger
+- [APM Program Timeline](http://internship-timeline.com/product.html)
 
 ## Finding Internships
 First and foremost -- believe in yourself. With time and dedication, getting a PM internship is possible. With this being said, make sure to **start early and start often.** Here are some tips and tricks to find PM Internships.
@@ -320,12 +325,12 @@ Our Team will be maintaining an open GSheet with links to selected internships f
 
 ## Salary
 This may not be applicable for some intern positions. However once you reach full-time offers or feel that you are not being paid a fair wage, check out these articles to make sure you secure the bag.
-- [ ] [Negotiating via Email](https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
-- [ ] [Product Manager Intern Salaries](https://www.levels.fyi/internships/?search=Product%20Manager)
-- [ ] [Product Manager Salaries](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Product%20Manager)
-- [ ] [Should you Negotiate an Intern Salary?](https://www.quora.com/Is-internship-salary-negotiable-What-are-the-best-ways-to-negotiate-with-tech-companies-like-Microsoft-IBM-and-Google)
-- [ ] [Negotiate Your Salary (Even Interns!)](https://candor.co/guides/salary-negotiation/)
-- [ ] [Compare your Salary with Other Students](https://jumpstart.me/forum/product-management)
+- [Negotiating via Email](https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
+- [Product Manager Intern Salaries](https://www.levels.fyi/internships/?search=Product%20Manager)
+- [Product Manager Salaries](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Product%20Manager)
+- [Should you Negotiate an Intern Salary?](https://www.quora.com/Is-internship-salary-negotiable-What-are-the-best-ways-to-negotiate-with-tech-companies-like-Microsoft-IBM-and-Google)
+- [Negotiate Your Salary (Even Interns!)](https://candor.co/guides/salary-negotiation/)
+- [Compare your Salary with Other Students](https://jumpstart.me/forum/product-management)
 
 # Office Hours and Advising
 Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
