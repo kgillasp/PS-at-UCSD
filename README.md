@@ -140,6 +140,8 @@ Example interview questions:
 These questions are covered extensively in [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer) and [Cracking the PM Interview](http://www.crackingthepminterview.com/)
 
 ## Technical Ability
+** May not be required ** This portion of the interview is usually reserved for PM positions in highly technical disciplines. Make sure to clarify with the job posting to see whether or not technical skills are required. 
+
 In order to prepare, you should review basic algorithms and computer science fundamentals, a large part of your credibility with engineers will be rooted in your technical competence.
 Example interview questions:
 - Write an algorithm that detects and alerts meeting conflicts.
