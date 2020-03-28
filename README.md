@@ -5,7 +5,7 @@
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. This is by no means an exhaustive list of all possible Product Management resources, however it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources, however it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
 the [Contributors](#contributors) section.
 
 Be sure to check out our office hours!
@@ -212,16 +212,15 @@ Facebook: Groups are a great way to stay updated
   - [Start at the End: How to Build Products that Create Change]()
   - [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
   - [Swipe to Unlock](https://swipetounlock.com/)
-  - [Inspired: How to Create Products Customers Love]()
-  - [Sprint: How to Solve Big Problems and Test New Ideas in Five Days]()
-  - [Don’t Make Me Think]
-  - [Hooked: How to Build Habit-Forming Products]
+  - [Inspired: How to Create Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408)
+  - [Sprint: How to Solve Big Problems and Test New Ideas in Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
+  - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS)
 - Marketing
-  - [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers]
+  - [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 - Leadership and Teams
-  - [Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration]
-  - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers]
-  - [High Output Management] 
+  - [Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://www.creativityincbook.com/)
+  - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+  - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?s=books&ie=UTF8&qid=1401740696&sr=1-1&keywords=how%20to%20win%20friends%20and%20influence%20people) 
 
 ## Articles
 - [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
