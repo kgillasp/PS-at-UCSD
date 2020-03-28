@@ -40,7 +40,7 @@ Be sure to check out our office hours!
 
 # Section 1: The Basics
 ## What Product Resources does UC San Diego Have?
-As an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
+Other than Product Space, as an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
 - Courses
   - CSE 110 Software Engineering - Agile Processes, Sprint planning, User Stories, Retrospectives and Velocity
   - CSE 112 Advanced Software Engineering - Testing, Software Design
@@ -55,7 +55,6 @@ As an aspiring PM at UCSD, what resources do you have? The answer: not many. Non
   - [Product Management Course](https://extension.ucsd.edu/courses-and-programs/product-management)
   - [Project Management and Lean Six Sigma Black Belt](https://extension.ucsd.edu/courses-and-programs/project-management-courses-san-diego)
 - Organizations
-  - [Product Space at UCSD](https://www.productspace.org/)
   - [Design Co](http://www.ucsddesign.co/)
   - [Triton Software Engineering](http://tse.ucsd.edu/)
   - [Design for America](http://dfaucsd.org/)
