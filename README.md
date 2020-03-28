@@ -75,31 +75,35 @@ As an aspiring PM at UCSD, what resources do you have? The answer: not many. Non
 - [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 # Section 2: Internship Preparation
-Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The most common are In the previous section you learned the basics, but now it's time to become competitive. 
+Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The interview will test your intuition and "prduct sense" along the lines of what was covered in the first section, but now it's time to become competitive. 
 
-A typical posting may read "Product Managers are hired as product “generalists” who fit any of our evolving product
-lines. In the later stages of the hiring process, we identify a team that matches your interests
-and background." ... How do you prepare for being a Generalist??
+A typical job post may read: "Product Managers are hired as product “generalists” who fit any of our evolving product
+lines. In the later stages of the hiring process, we identify a team that matches your interests and background." ... But how do you prepare for being a Generalist??
 
-Never fear. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Questions](#analysis-aka-fermi-questions), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these area are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the format of other PM Interviews, here are a couple:
+Never fear. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Questions](#analysis-aka-fermi-questions), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these area are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
 - [Facebook](https://www.slideshare.net/interviewcoach/facebooks-official-note-to-product-management-candidates)
 - [Amazon](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide-129471163)
 
-Before we take you through each area, we have to first get the interview. To get the interview we have to have a solid resume.
+Before we take you through each area, we have to first get the interview, and to get the interview we have to build a solid resume.
 
 ## Resume
 - Cover Letter
   - Unless you're applying to Bain or McKinsey, chances are you do not need a cover letter. A few companies may ask you to write a few short sentences about their product, but a cover letter is often not reccomended.
+  - If by chance you are required to write a cover letter, check out the following resources:
+  - [Cover Letter Examples by ResumeGenius](https://resumegenius.com/cover-letter-examples/product-manager-cover-letter-sample)
+  - [Cover Letter Examples by LiveCareer](https://www.livecareer.com/cover-letters/examples/marketing/product-manager)
 - One Page of Goodness (General Resume Tips)
-  - One page, fill the page
-  - 3-5 bullets per position -> formula: Verb ___ because/to ___ insight. Make sure to use metrics (numbers) where applicable
+  - Keep your resume to one page, but make sure to fill the page
+  - Always have 3-5 bullets per position -> formula: Verb ___ because/to ___ insight. Make sure to use metrics (numbers) where applicable
   - Include relevant PM technologies: Jira, Tableau, SQL, Agile, Scrum, SDLC, etc.
-  - Emphasize Product Management and Leadership
+  - Emphasize Product Management and Leadership, be sure to *show* these traits rather than *tell* them
   - Example resume and template [here](https://github.com/kgillasp/Resume/blob/master/README.md)
 - LinkedIn - The Online Resume
-  - Use your profile to tell a narrative. Why have your experiences shaped you to become a PM? If they haven't... craft a compelling narrative with what you have!
+  - Make sure to upload a profile photo and cover photo
+  - Make use of the "Featured" section to showcase your best work, posts, or website
+  - Use your profile to tell a narrative. Why have your experiences shaped you to become a PM? If they haven't... craft a compelling narrative that showcases your potential!
   - Keep your industry in mind: Silicon Valley? Let your personality shine through. Wall Street? Maybe wear a suit.
-  - Highlight **Leadership** and **Initiative**
+  - Highlight **Leadership**, **Initiative**, and **Public Speaking**
   - Do not repeat your resume in your experience descriptions. You have more room -- use it!
   - Do not be afraid to borrow from other profiles -- check out our example [LinkedIn Profiles](#using-social-media)
 - Personal Website (optional)
@@ -201,11 +205,24 @@ Facebook: Groups are a great way to stay updated
 
 
 ## Books
-- [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
-- [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer)
-- [Cracking the PM Interview](http://www.crackingthepminterview.com/)
-- [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
-- [Swipe to Unlock](https://swipetounlock.com/)
+- Product Management and Product Design
+  - [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer)
+  - [Cracking the PM Interview](http://www.crackingthepminterview.com/)
+  - [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
+  - [Little Bets: How Breakthrough Ideas Emerge from Small Discoveries]()
+  - [Start at the End: How to Build Products that Create Change]()
+  - [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
+  - [Swipe to Unlock](https://swipetounlock.com/)
+  - [Inspired: How to Create Products Customers Love]()
+  - [Sprint: How to Solve Big Problems and Test New Ideas in Five Days]()
+  - [Don’t Make Me Think]
+  - [Hooked: How to Build Habit-Forming Products]
+- Marketing
+  - [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers]
+- Leadership and Teams
+  - [Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration]
+  - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers]
+  - [High Output Management] 
 
 ## Articles
 - [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
