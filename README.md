@@ -259,13 +259,13 @@ Facebook: Groups are a great way to stay updated
   - [Product Talk](https://podcasts.apple.com/us/podcast/product-talk/id1038890550)
   - [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
   - [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
-- UX Podcasts
+- Design Podcasts
   - [The Product Experience](https://podcasts.apple.com/us/podcast/the-product-experience/id1447100407)
   - [Design Better Podcast](https://podcasts.apple.com/us/podcast/design-better-podcast/id1266839739)
   - [Design Details](https://podcasts.apple.com/us/podcast/design-details/id947191070)
   - [User Defenders](https://podcasts.apple.com/us/podcast/user-defenders-ux-design-and-personal-growth/id1055121160)
   - [UI Breakfast](https://podcasts.apple.com/us/podcast/ui-breakfast-ui-ux-design-and-product-strategy/id939175693)
-- Tech News
+- Tech News Podcasts
   - [Marketplace Tech](https://podcasts.apple.com/us/podcast/marketplace-tech/id73330855)
   - [The Future with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
   - [The Crazy One](https://podcasts.apple.com/us/podcast/the-crazy-one/id1128248295)
@@ -273,7 +273,7 @@ Facebook: Groups are a great way to stay updated
   - [The WIRED Podcast](https://podcasts.apple.com/us/podcast/the-wired-podcast/id404893471)
   - [WSJ Tech News Briefing](https://podcasts.apple.com/us/podcast/wsj-tech-news-briefing/id74844126)
   - [Daily Tech News Show](https://podcasts.apple.com/us/podcast/daily-tech-news-show/id790864884)
-- Others
+- Other Podcasts 
   - [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334) Conversations with Chief Marketing Officers
   - [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684) the life of entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk.
 
