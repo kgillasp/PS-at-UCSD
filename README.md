@@ -1,5 +1,7 @@
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/exploration_pm%20(2).jpg)
+
 # Product Space @ UCSD
+
 ## About
 **[Product Space at UC San Diego](https://www.productspace.org/)** is dedicated to establishing a Product Community for undergraduate students looking to enter the world of Product Management. To help us realize this goal, this resource includes a curated list of product management advice sourced from our Product Leaders. 
 
@@ -11,7 +13,6 @@ the [Contributors](#contributors) section.
 Be sure to check out our office hours!
 [Office Hours & Advising](#office-hours-and-advising)
 
-
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
     - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
@@ -22,7 +23,7 @@ Be sure to check out our office hours!
     - [Product Strategy](#product-strategy)
     - [Analytics aka Fermi Problems](#analytics-aka-fermi-problems)
     - [Technical Ability](#technical-ability)
-    - [Interview Tips and Tricks from our Board Members](#iterview-tips-and-tricks-from-our-board-members)
+    - [Interview Tips and Tricks from our Board Members](#interview-tips-and-tricks-from-our-board-members)
     - [Using Social Media](#using-social-media)
     - [Books](#books)
     - [Articles](#articles)
@@ -39,18 +40,21 @@ Be sure to check out our office hours!
 - [Contributors](#contributors)
 
 # Section 1: The Basics
+
 ## What Product Resources does UC San Diego Have?
 Other than Product Space, as an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
 - Courses
   - CSE 110 Software Engineering - Agile Processes, Sprint planning, User Stories, Retrospectives and Velocity
   - CSE 112 Advanced Software Engineering - Testing, Software Design
   - CSE 100 Advanced Data Structures - Provides solid technical background for more tech-focused PM roles
-  - MGT 18 Managing Diverse Teams - Provides insight as to what a great leader looks like
+  - MGT 18 Managing Diverse Teams - Provides insight as to what a great looks like
   - MGT 103 Product Marketing and Management
   - MGT 164 Business and Organizational Leadership
   - MGT 172 Project Management - Provides technical terminology for Project Management, some agile experience
   - MGT 187 New Venture Finance - Pitching and justifying your design choices
   - ENG 100D Design for Development - Consulting for non-profits, design process
+  - COGS 120 Interaction Design 
+  - COGS 127 Designing Human-Data Interactions
 - UCSD Extension
   - [Product Management Course](https://extension.ucsd.edu/courses-and-programs/product-management)
   - [Project Management and Lean Six Sigma Black Belt](https://extension.ucsd.edu/courses-and-programs/project-management-courses-san-diego)
@@ -108,7 +112,7 @@ Before we take you through each area, we have to first get the interview, and to
 - Personal Website (optional)
   - Creating a personal website is a great way to showcase your work and build your personal brand
   - Consider making a website if you feel your resume and LinkedIn do not tell the whole story
-  
+
 ## Product Design 
 Begin by thinking about user experiences from the customer’s perspective. Recognize the importance of even the smallest product details in producing great results. You should be as comfortable with sketching a wireframe for a designer as you are with explaining your reasoning from a business standpoint.
 Example interview questions:
@@ -131,7 +135,6 @@ To study for this portion of the interview, check out [Swipe to Unlock](https://
 - [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html)
 - [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html)
 - [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html)
-
 
 ## Analysis aka Fermi Problems
 Product Managers are fluent with numbers, and are able to validate and effectively present data and articulate their analyses. They are comfortable using metrics and data to make decisions. This role may require decision-making from A/B test results, writing SQL queries, or running scripts to extract data from logs.
@@ -172,16 +175,19 @@ Most technical questions will be LeetCode easy or medium. This is not the focus 
 Social media is not required, however to stay competitive with other aspiring undergraduate Product Managers, it is wise to keep up to date with the community. Social media can also be leveraged to establish your brand and to build your network.
 
 LinkedIn: Check out what other Students have done to break into PM
+  - [Bryce Hawthorne](https://www.linkedin.com/in/bryce-hawthorne-648175118/) UCSD
+  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/) UCSD
+  - [Ryan Hill](https://www.linkedin.com/in/ryanjosephhill/) UCSD
   - [Andy Huang](https://www.linkedin.com/in/andyhuang0/) UCLA
+  - [Ankur Papneja](https://www.linkedin.com/in/ankurpapneja/) UCLA
+  - [Gefen Skolnick](https://www.linkedin.com/in/gefenskolnick/) UCLA
+  - [Hamza Kawaja](https://www.linkedin.com/in/onlyhamza/) Cal
   - [Ismail Azam](https://www.linkedin.com/in/ismailazam/) Cal
   - [Lily Li](https://www.linkedin.com/in/lilyxinyuanli/) Cal
-  - [Hamza Kawaja](https://www.linkedin.com/in/onlyhamza/) Cal
-  - [Ryan Hill](https://www.linkedin.com/in/ryanjosephhill/) UCSD
-  - [Kyle Gillapsy](https://www.linkedin.com/in/kylegillaspy/) UCSD
-  - [Bryce Hawthorne](https://www.linkedin.com/in/bryce-hawthorne-648175118/) UCSD
-  - [Gefen Skolnick](https://www.linkedin.com/in/gefenskolnick/) UCLA
-  - [Ankur Papneja](https://www.linkedin.com/in/ankurpapneja/) UCLA
-  
+  - [Mark Ansell](https://www.linkedin.com/in/markgansell/) Cal
+  - [Andrew Ansell](https://www.linkedin.com/in/andrewansell/) Cal
+  - For more, check out our board members from the [Product Space Chapters](https://www.productspace.org/ucsd)
+ 
 Twitter: Find and follow Product-Focused Content and Leaders
   - [Product Hunt](https://twitter.com/ProductHunt) For all the latest products
   - [Mind the Product](https://twitter.com/MindtheProduct) For Product Community
@@ -201,7 +207,6 @@ Facebook: Groups are a great way to stay updated
   - [HH Product Management](https://www.facebook.com/groups/hhProductManagement/?ref=bookmarks)
   - [Product Space UCSD](https://www.facebook.com/productspaceucsd/)
   - [Tech Recruiter Email Sharing](https://www.facebook.com/groups/2054888934622756/?ref=group_browse)
-
 
 ## Books
 - Product Management and Product Design
@@ -269,8 +274,9 @@ Facebook: Groups are a great way to stay updated
   - [WSJ Tech News Briefing](https://podcasts.apple.com/us/podcast/wsj-tech-news-briefing/id74844126)
   - [Daily Tech News Show](https://podcasts.apple.com/us/podcast/daily-tech-news-show/id790864884)
 - Others
-  - [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334)
-  - [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684)
+  - [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334) Conversations with Chief Marketing Officers
+  - [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684) the life of entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk.
+
 ## More Resources
 Lastly, we will leave you with the resource that inspired the creation of a student-focused resource. It is geared towards those already in industry with a few years of experience, but if you feel like you're ready -- or just want an extra edge -- check it out!
 - [Open Product Management Resources](https://github.com/ProductHired/open-product-management/blob/master/README.md#career-prep-company-types)
@@ -293,8 +299,8 @@ First and foremost -- believe in yourself. With time and dedication, getting a P
   - Utilize Job Websites
     - [LinkedIn](https://www.linkedin.com/jobs/)
     - [Glassdoor](https://www.glassdoor.com/index.htm)
-    - [Handshake](https://www.joinhandshake.com/)
-    - [Indeed](https://www.indeed.com/)
+    - [Handshake](https://www.joinhandshake.com/) 
+    - [Indeed](https://www.indeed.com/) start here!
     - [Jumpstart](https://jumpstart.me/)
     - [WayUp](https://www.wayup.com/member/jobs-listing)
     - [AngelList](https://angel.co/jobs)
