@@ -7,7 +7,7 @@
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources, however it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources; however, it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
 the [Contributors](#contributors) section.
 
 Be sure to check out our office hours!
@@ -15,8 +15,8 @@ Be sure to check out our office hours!
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
-    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
     - [What is Product Management (PM)](#what-is-product-management-pm)
+    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
 - [Section 2: Internship Preparation](#section-2-internship-preparation)
     - [Resume](#resume)
     - [Product Design](#product-design)
@@ -40,6 +40,21 @@ Be sure to check out our office hours!
 - [Contributors](#contributors)
 
 # Section 1: The Basics
+
+## What Is Product Management (PM)?
+Product management is an organizational function that guides every step of a product’s lifecycle: from development, to positioning and pricing, by focusing on the product and its customers first and foremost. To build the best possible product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded. The following articles dive more in depth as to what you can expect the role of a Product Manager to be in industry. 
+
+As an undergraduate Product Manager, you will likely be an intern with a subset of these responsibilities. Oftentimes at this level and at Associate levels, you will be responsible for a specific feature or set of features that belong to a product. The product and its strategic iterations will be coming from a Senior or Director-level Product Manager. Check out the following links to learn more about the basics of being a Product Manager.
+
+- [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/) - Neal Cabbage
+- [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
+- [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
+- [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+- [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
+- [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+- [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+- [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 ## What Product Resources does UC San Diego Have?
 Other than Product Space, as an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
@@ -65,42 +80,32 @@ Other than Product Space, as an aspiring PM at UCSD, what resources do you have?
   - [Fi](https://fi-ucsd.com/) 
   - [Adwave](https://www.ucsdadwave.org/)
 
-## What Is Product Management (PM)?
-- [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/)
-- [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
-- [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-- [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
-- [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
-- [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-- [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-- [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
-
 # Section 2: Internship Preparation
-Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The interview will test your intuition and "prduct sense" along the lines of what was covered in the first section, but now it's time to become competitive. 
+Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The interview will test your intuition and "product sense" along the lines of what was covered in the first section, but now it's time to become competitive. 
 
 A typical job post may read: "Product Managers are hired as product “generalists” who fit any of our evolving product
 lines. In the later stages of the hiring process, we identify a team that matches your interests and background." ... But how do you prepare for being a Generalist??
 
-Never fear. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Questions](#analysis-aka-fermi-problems), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these area are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
+We are here to help. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Problems](#analysis-aka-fermi-problems), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these areas are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
 - [Facebook](https://www.slideshare.net/interviewcoach/facebooks-official-note-to-product-management-candidates)
 - [Amazon](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide-129471163)
+- [Intuit](https://www.quora.com/How-can-I-prepare-for-an-Intuit-interview)
+- [Atlassian](https://www.quora.com/What-should-I-expect-in-a-Product-Manager-interview-at-Atlassian-and-how-should-I-prepare)
+
 
 Before we take you through each area, we have to first get the interview, and to get the interview we have to build a solid resume.
 
 ## Resume
 - Cover Letter
-  - Unless you're applying to Bain or McKinsey, chances are you do not need a cover letter. A few companies may ask you to write a few short sentences about their product, but a cover letter is often not reccomended.
+  - Unless you're applying to Bain or McKinsey, chances are you do not need a cover letter. A few companies may ask you to write a few short sentences about their product, but a cover letter is often not reccommended.
   - If by chance you are required to write a cover letter, check out the following resources:
   - [Cover Letter Examples by ResumeGenius](https://resumegenius.com/cover-letter-examples/product-manager-cover-letter-sample)
   - [Cover Letter Examples by LiveCareer](https://www.livecareer.com/cover-letters/examples/marketing/product-manager)
-- One Page of Goodness (General Resume Tips)
+- One Page of Awesome (General Resume Tips)
   - Keep your resume to one page, but make sure to fill the page
   - Always have 3-5 bullets per position -> formula: Verb ___ because/to ___ insight. Make sure to use metrics (numbers) where applicable
   - Include relevant PM technologies: Jira, Tableau, SQL, Agile, Scrum, SDLC, etc.
-  - Emphasize Product Management and Leadership, be sure to *show* these traits rather than *tell* them
-  - Example resume and template [here](https://github.com/kgillasp/Resume/blob/master/README.md)
+  - Emphasize Product Management and Leadership, be sure to *show* these traits rather than *tell* them i.e. use the formula above with insights that justify a trait rather than using the word itself
 - LinkedIn - The Online Resume
   - Make sure to upload a profile photo and cover photo
   - Make use of the "Featured" section to showcase your best work, posts, or website
@@ -112,6 +117,7 @@ Before we take you through each area, we have to first get the interview, and to
 - Personal Website (optional)
   - Creating a personal website is a great way to showcase your work and build your personal brand
   - Consider making a website if you feel your resume and LinkedIn do not tell the whole story
+- Example resume and template [here](https://github.com/kgillasp/Resume/blob/master/README.md)
 
 ## Product Design 
 Begin by thinking about user experiences from the customer’s perspective. Recognize the importance of even the smallest product details in producing great results. You should be as comfortable with sketching a wireframe for a designer as you are with explaining your reasoning from a business standpoint.
@@ -120,7 +126,7 @@ Example interview questions:
 - If you were to build the next great feature for Yelp, what would it be?
 - How would you monetize a certain product more effectively?
 
-This is the most difficult part of interview. Why? Because it is completely open-ended, requires a deep knowledge of the product, and a justification of your proposed idea. This is answered directly to someone who has most likely spent a good portion of their life pouring effort into said product. The last thing you want to do is be caught off-gaurd when asked to choose a product to improve given x conditions. Thankfully, you have time to prepare. 
+This is the most difficult part of interview. Why? Because it is completely open-ended, requires a deep knowledge of the product, and a justification of your proposed idea. This is answered directly to someone who has most likely spent a good portion of their life pouring effort into said product. The last thing you want to do is be caught off-guard when asked to choose a product to improve given x conditions. Thankfully, you have time to prepare. 
 
 Often, the best solutions come out of your frustrations. Try to think about what you would love the product to do in an ideal world. There are many different approaches to this portion of the interview, for more informtation be sure to check out [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things/) and [The Product Manager Interview](https://www.lewis-lin.com/the-product-manager-interview-lewis-lin).
 
@@ -131,7 +137,7 @@ Example interview questions:
 - How should Microsoft Teams position its feature releases to stay competitive with Slack?
 
 To study for this portion of the interview, check out [Swipe to Unlock](https://swipetounlock.com/) and the following case studies:
-- [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3)
+- [Product Hunt’s Rise Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3)
 - [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html)
 - [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html)
 - [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html)
@@ -238,9 +244,6 @@ Facebook: Groups are a great way to stay updated
 - [Facebook RPM Program: From Prep to Offer](https://medium.com/@jewellim/facebook-rpm-program-from-prep-to-offer-2d1be3772db8) — Jewel Lim
 - [LinkedIn Product Manager Interview: What to expect and how to prepare](https://interviewsteps.com/blogs/news/linkedin-product-manager-interview-what-to-expect-and-how-to-prepare) — Interview Steps
 - [How To Get A Job At Twitter](https://www.fastcompany.com/40545463/how-to-get-a-job-at-twitter) — Michael Grothaus
-- [How can I prepare for an Intuit interview?](https://www.quora.com/How-can-I-prepare-for-an-Intuit-interview) — Quora
-- [What should I expect in a Product Manager interview at Atlassian, and how should I prepare?](https://www.quora.com/What-should-I-expect-in-a-Product-Manager-interview-at-Atlassian-and-how-should-I-prepare) — Quora
-
 ## Newsletters
 - [Bringing the Donuts](https://www.kennorton.com/newsletter/)
 - [Contrary Capital](https://contrarycap.us14.list-manage.com/subscribe/post?u=ee534cdf5428dffcf0c7b7b97&id=efedc9a79c)
@@ -300,7 +303,7 @@ First and foremost -- believe in yourself. With time and dedication, getting a P
     - [LinkedIn](https://www.linkedin.com/jobs/)
     - [Glassdoor](https://www.glassdoor.com/index.htm)
     - [Handshake](https://www.joinhandshake.com/) 
-    - [Indeed](https://www.indeed.com/) start here!
+    - [Indeed](https://www.indeed.com/)
     - [Jumpstart](https://jumpstart.me/)
     - [WayUp](https://www.wayup.com/member/jobs-listing)
     - [AngelList](https://angel.co/jobs)
@@ -319,7 +322,11 @@ First and foremost -- believe in yourself. With time and dedication, getting a P
   - Follow recruiters on LinkedIn (not "connect", "follow")
   
 ## APM vs PM
-A few established and elite companies have instituted APM (Associate Product Manager) Programs. These programs are extremely competitive and often attract the best and brightest undergraduate students. They are typically small cohorts (6-10 students per year), emphasize Product Management and Leadership, and last 1.5-2 years. Product Management Internships are typically more plentiful and have the potential to be *slightly* less competitive -- but this depends a lot on the company. They depend much more on your assigned team as well as the structure of the company that is employing you. Between the two, there is no concrete advantage to either. A Product Management Internship is really what you make of it. The more initiative and passion you put into your product, the more your manager will help you out. 
+A few elite companies have instituted APM (Associate Product Manager) Programs. These programs are extremely competitive and often attract the best and brightest undergraduate students. They are typically small cohorts (6-10 students per year), emphasize Product Management and Leadership, and last 1.5-2 years. These programs often get to meet with C-suite executives and go on trips to various campuses to explore different perspectives on Product Management. Some of these programs are world-renowned, while others simply use the APM title to attract talented undergraduates -- make sure to do the research!
+
+(PM) Product Management Internships are typically more plentiful and have the potential to be *slightly* less competitive -- but this depends a lot on the company. They depend much more on your assigned team as well as the structure of the company that is employing you. Do not look at these internships any differently. For example, a startup may not give you an APM title, but you may hold a higher level of responsibility and learn a lot more than in an APM Program. 
+
+The companies offering APM Programs will usually also offer regular Product Management Internships. APM Programs are normally seen as more prestigious, however they aren't srictly more beneficial in terms of product knowledge or responsibility. Different teams may not be able to obtain an APM spot, so they offer a PM internship instead. Regardless of title, any internship in Product Management is one to be proud of. 
 
 - Companies Offering APM Programs
   - [Google](https://buildyourfuture.withgoogle.com/programs/apm-program)
@@ -347,7 +354,7 @@ Our Team will be maintaining an open GSheet with links to selected internships f
   - *Link will be available in June*
 
 ## Salary
-This may not be applicable for some intern positions. However once you reach full-time offers or feel that you are not being paid a fair wage, check out these articles to make sure you secure the bag.
+The average Product Manager Intern salary can vary a lot due to company and/or location. The range can vary from around $45+/hr in the Bay Area/NY at top companies to around $20/hr in other locations. No matter what your initial offer is, make sure to negotitate!! Use the following resources to help you secure the bag.
 - [Negotiating via Email](https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts)
 - [Product Manager Intern Salaries](https://www.levels.fyi/internships/?search=Product%20Manager)
 - [Product Manager Salaries](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Product%20Manager)
