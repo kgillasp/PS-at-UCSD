@@ -360,7 +360,7 @@ Our Board Members are here to answer questions about the content found down belo
 - [Kyle Gillaspy's Calendly](https://calendly.com/product-space-kyle)
 - [Alex Fong's Calendly](https://calendly.com/alexmatthewfong/30min)
 
-To meet with multiple members, view our availability via our ![Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
+To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
 
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/ps-ucsd-logo-crop.png)
 
