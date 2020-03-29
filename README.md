@@ -1,4 +1,4 @@
-![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/exploration_pm%20(2).jpg)
+![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/intro.PNG)
 
 # Product Space @ UCSD
 
