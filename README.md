@@ -7,7 +7,7 @@
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources, however it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources; however, it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
 the [Contributors](#contributors) section.
 
 Be sure to check out our office hours!
@@ -15,8 +15,8 @@ Be sure to check out our office hours!
 
 ## Table of Contents
 - [Section 1: The Basics](#section-1-the-basics)
-    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
     - [What is Product Management (PM)](#what-is-product-management-pm)
+    - [What Product Resources does UC San Diego Have?](#what-product-resources-does-uc-san-diego-have)
 - [Section 2: Internship Preparation](#section-2-internship-preparation)
     - [Resume](#resume)
     - [Product Design](#product-design)
@@ -41,6 +41,21 @@ Be sure to check out our office hours!
 
 # Section 1: The Basics
 
+## What Is Product Management (PM)?
+Product management is an organizational function that guides every step of a product’s lifecycle: from development, to positioning and pricing, by focusing on the product and its customers first and foremost. To build the best possible product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded. The following articles dive more in depth as to what you can expect the role of a Product Manager to be in industry. 
+
+As an undergraduate Product Manager, you will likely be an intern with a subset of these responsibilities. Oftentimes at this level and at Associate levels, you will be responsible for a specific feature or set of features that belong to a product. The product and its strategic iterations will be coming from a Senior or Director-level Product Manager. 
+
+- [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/) - Neal Cabbage
+- [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
+- [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
+- [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+- [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
+- [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+- [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+- [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+
 ## What Product Resources does UC San Diego Have?
 Other than Product Space, as an aspiring PM at UCSD, what resources do you have? The answer: not many. None of the following resources have a *focus* on Product Management, but they do cover individual aspects of the discipline (Design, Planning, Marketing, etc.). Utilizing a majority of these resources can help you translate your degree into a career in Product Management!
 - Courses
@@ -64,18 +79,6 @@ Other than Product Space, as an aspiring PM at UCSD, what resources do you have?
   - [Design for America](http://dfaucsd.org/)
   - [Fi](https://fi-ucsd.com/) 
   - [Adwave](https://www.ucsdadwave.org/)
-
-## What Is Product Management (PM)?
-- [Product vs. Program vs. Project](https://nealcabage.com/product-vs-project-vs-program-management/)
-- [What is product management?](https://www.leaninberlin.de/2019/03/what-is-product-management.html) - Bogdan Sturza
-- [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
-- [The Art of Product Management](https://www.quora.com/q/theartofproductmanagement) - Jackie Bavaro
-- [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
-- [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
-- [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
-- [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
-- [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 # Section 2: Internship Preparation
 Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The interview will test your intuition and "prduct sense" along the lines of what was covered in the first section, but now it's time to become competitive. 
