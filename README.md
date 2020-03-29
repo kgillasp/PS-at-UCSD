@@ -364,7 +364,9 @@ The average Product Manager Intern salary can vary a lot due to company and/or l
 
 # Office Hours and Advising
 Our Board Members are here to answer questions about the content found down below or Product Management in general. To schedule meetings with individual board members, click on our Calendly links below!
-- [Kyle Gillaspy's Calendly](https://calendly.com/product-space-kyle)
+- [Kyle Gillaspy's Calendly](https://calendly.com/product-space-kyle) 
+  - Product Interests: Financial Literacy (PFM), Career Development, Productivity, Tech, High-level Product Strategy
+  - Experience: 2x FinTech PM at Oracle (GL, RevRec, FX), Business at Aerojet Rocketdyne (SOx, GL), Market Analyst at Startup
 - [Alex Fong's Calendly](https://calendly.com/alexmatthewfong/30min)
 
 To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
