@@ -83,7 +83,7 @@ Before the first application, you need to know your stuff. Product Management In
 A typical job post may read: "Product Managers are hired as product “generalists” who fit any of our evolving product
 lines. In the later stages of the hiring process, we identify a team that matches your interests and background." ... But how do you prepare for being a Generalist??
 
-Never fear. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Questions](#analysis-aka-fermi-questions), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these area are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
+Never fear. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Questions](#analysis-aka-fermi-problems), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these area are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
 - [Facebook](https://www.slideshare.net/interviewcoach/facebooks-official-note-to-product-management-candidates)
 - [Amazon](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide-129471163)
 
