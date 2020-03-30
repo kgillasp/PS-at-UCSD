@@ -7,7 +7,7 @@
 
 You can expect to find relevant frameworks, interviews, experts, resources, books, products, career preps, and much more below.
 
-PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, its simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources; however, it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
+PS @ UCSD's Product Management Resource is an amazing source of content **specifically for undergraduate students** looking to break into Product Management. (Not to say that if you are not an undergraduate student this resource won't be helpful, it's simply geared towards undergraduates). This is by no means an exhaustive list of all possible Product Management resources; however, it does include information or links pointing you to places where you can find out more! If you would like to contribute to this resource, please visit
 the [Contributors](#contributors) section.
 
 Be sure to check out our office hours!
