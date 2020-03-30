@@ -376,3 +376,5 @@ To meet with multiple members, view our availability via our [Group Calendar](ht
 If you are interested in contributing to this resource, please contact [ProductSpaceUCSD@gmail.com](mailto:productspaceuscd@gmail.com)
 - Kyle Gillaspy [LinkedIn](https://www.linkedin.com/in/kylegillaspy/)
 - Alex Fong [LinkedIn](https://www.linkedin.com/in/alexmatthewfong/)
+
+### To see what we're planning on adding to this resource next, check out our :bulb: [backlog](https://github.com/kgillasp/PS-at-UCSD/blob/link_testing/backlog.md)
