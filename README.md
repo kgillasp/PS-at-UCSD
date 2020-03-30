@@ -53,7 +53,6 @@ As an undergraduate Product Manager, you will likely be an intern with a subset 
 - [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) — Alex Valaitis
 - [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
 - [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
-- [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 - [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
 ## :trident: What Product Resources does UC San Diego Have?
