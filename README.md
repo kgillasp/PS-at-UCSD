@@ -228,6 +228,7 @@ Social media is not required, however to stay competitive with other aspiring un
 - :100: Marketing
   - [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
 - :round_pushpin: Leadership and Teams
+  - [Principles](https://www.principles.com/)
   - [Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://www.creativityincbook.com/)
   - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
   - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?s=books&ie=UTF8&qid=1401740696&sr=1-1&keywords=how%20to%20win%20friends%20and%20influence%20people) 
