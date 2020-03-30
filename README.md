@@ -42,7 +42,7 @@ Be sure to check out our office hours!
 # :bookmark_tabs: Section 1: The Basics
 
 ## :sweat_smile: What Is Product Management (PM)?
-Product management is an organizational function that guides every step of a product’s lifecycle: from development, to positioning and pricing, by focusing on the product and its customers first and foremost. To build the best possible product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded. The following articles dive more in depth as to what you can expect the role of a Product Manager to be in industry. 
+Product Management guides every step of a product’s lifecycle: from development, to positioning and pricing, by focusing on the product and its customers first and foremost. To build the best possible product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded. The following articles dive more in depth as to what you can expect the role of a Product Manager to be in industry. 
 
 As an undergraduate Product Manager, you will likely be an intern with a subset of these responsibilities. Oftentimes at this level and at Associate levels, you will be responsible for a specific feature or set of features that belong to a product. The product and its strategic iterations will be coming from a Senior or Director-level Product Manager. Check out the following links to learn more about the basics of being a Product Manager.
 
