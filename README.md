@@ -97,7 +97,7 @@ Before the first application, you need to know your stuff. Product Management In
 A typical job post may read: "Product Managers are hired as product “generalists” who fit any of our evolving product
 lines. In the later stages of the hiring process, we identify a team that matches your interests and background." ... But how do you prepare for being a Generalist??
 
-We are here to help. The four main interview areas are [Product Design](#product-design), [Product Strategy](#product-strategy), [Analysis aka Fermi Problems](#analysis-aka-fermi-problems), and [Technical Ability](#technical-ability). These main areas vary from company to company, but these areas are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
+We are here to help. The four main interview areas are [Product Design](#straight_ruler-product-design), [Product Strategy](#chart_with_upwards_trend-product-strategy), [Analysis aka Fermi Problems](#trollface-analysis-aka-fermi-problems), and [Technical Ability](#computer-technical-ability). These main areas vary from company to company, but these areas are taken from Google's APM Interview Process. Preparing for this interview will likely cover all other possible interviews. If you are curious about the main sections of other PM Interviews, here are a couple:
 - [Facebook](https://www.slideshare.net/interviewcoach/facebooks-official-note-to-product-management-candidates)
 - [Amazon](https://www.slideshare.net/interviewcoach/36day-amazon-pm-interview-study-guide-129471163)
 - [Intuit](https://www.quora.com/How-can-I-prepare-for-an-Intuit-interview)
@@ -124,7 +124,7 @@ Before we take you through each area, we have to first get the interview, and to
   - Keep your industry in mind: Silicon Valley? Let your personality shine through. Wall Street? Maybe wear a suit.
   - Highlight **Leadership**, **Initiative**, and **Public Speaking**
   - Do not repeat your resume in your experience descriptions. You have more room -- use it!
-  - Do not be afraid to borrow from other profiles -- check out our example [LinkedIn Profiles](#using-social-media)
+  - Do not be afraid to borrow from other profiles -- check out our example [LinkedIn Profiles](#iphone-using-social-media)
 - :computer: Personal Website (optional)
   - Creating a personal website is a great way to showcase your work and build your personal brand
   - Consider making a website if you feel your resume and LinkedIn do not tell the whole story
@@ -186,7 +186,7 @@ Most technical questions will be LeetCode easy or medium. This is not the focus 
   - Clarify the position. Product Management varies widely -- make sure you are interested in the position's responsibilities
   - Always have well-thought questions ready to go (Think interviewer background, product knowlegde, interesting connections)
   - Identify your market and clarify your problem, never begin developing before you know the scope
-  - Find previous interns on the team and reach out to them for interview prep -- [people want to help!!](#using-social-media)
+  - Find previous interns on the team and reach out to them for interview prep -- [people want to help!!](#iphone-using-social-media)
 
 ## :iphone: Using Social Media
 Social media is not required, however to stay competitive with other aspiring undergraduate Product Managers, it is wise to keep up to date with the community. Social media can also be leveraged to establish your brand and to build your network.
@@ -230,8 +230,8 @@ Social media is not required, however to stay competitive with other aspiring un
   - [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer)
   - [Cracking the PM Interview](http://www.crackingthepminterview.com/)
   - [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?crid=33AXW63QO7L4K&keywords=lean+product+playbook&qid=1562734784&s=books&sprefix=lean+product+%2Cstripbooks%2C198&sr=1-1)
-  - [Little Bets: How Breakthrough Ideas Emerge from Small Discoveries]()
-  - [Start at the End: How to Build Products that Create Change]()
+  - [Little Bets: How Breakthrough Ideas Emerge from Small Discoveries](http://petersims.com/little-bets/)
+  - [Start at the End: How to Build Products that Create Change](https://mattwallaert.com/)
   - [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/)
   - [Swipe to Unlock](https://swipetounlock.com/)
   - [Inspired: How to Create Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408)
@@ -239,7 +239,8 @@ Social media is not required, however to stay competitive with other aspiring un
   - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS)
 - :100: Marketing
   - [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123)
-- :round_pushpin: Leadership and Teams
+- :round_pushpin: Leadership, Teams, and Bettering YOU
+  - [What You Do is Who You Are](https://www.amazon.com/What-You-Do-Who-Are-ebook/dp/B07NVN4QCM)
   - [Principles](https://www.principles.com/)
   - [Creativity, Inc: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](http://www.creativityincbook.com/)
   - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
