@@ -128,7 +128,7 @@ Before we take you through each area, we have to first get the interview, and to
 - :computer: Personal Website (optional)
   - Creating a personal website is a great way to showcase your work and build your personal brand
   - Consider making a website if you feel your resume and LinkedIn do not tell the whole story
-- Example resume and template [here](https://github.com/kgillasp/Resume/blob/master/README.md)
+- [Example resume and template](https://github.com/kgillasp/Resume/blob/master/README.md)
 
 ## :straight_ruler: Product Design 
 Begin by thinking about user experiences from the customer’s perspective. Recognize the importance of even the smallest product details in producing great results. You should be as comfortable with sketching a wireframe for a designer as you are with explaining your reasoning from a business standpoint.
