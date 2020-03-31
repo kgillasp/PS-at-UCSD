@@ -249,7 +249,6 @@ Social media is not required, however to stay competitive with other aspiring un
 ## :memo: Articles
 - [Google APM Interview Prep](https://www.businessinsider.com/google-email-product-manager-2017-3)
 - [A Facebook VP on Product Management Interview Questions](https://www.careercontessa.com/advice/product-management-interview-questions/?es_p=8874734&es_p=9855294)
-- [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
 - [Navigating the APM recruiting process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5) — Justina Chen
 - [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) — Fernando Delgado
 - [Preparing for the Associate Product Manager interview](https://blog.pmlesson.com/preparing-associate-product-manager-interview/) — Hamsa Pillai, Google APM
@@ -272,7 +271,6 @@ Social media is not required, however to stay competitive with other aspiring un
   - [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787)
   - [Agile Uprising Podcast](https://podcasts.apple.com/us/podcast/agile-uprising-podcast/id1163230424)
   - [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
-  - [Yours Productly](https://podcasts.apple.com/us/podcast/yours-productly/id972149733)
   - [Product to Product](https://podcasts.apple.com/us/podcast/product-to-product/id1293415837)
   - [Product Talk](https://podcasts.apple.com/us/podcast/product-talk/id1038890550)
   - [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
