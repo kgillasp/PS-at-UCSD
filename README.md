@@ -1,6 +1,6 @@
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/intro.PNG)
 
-# Product Space @ UCSD
+# Product Space @ UCSD hopes you're staying home :mask::heart:
 
 ## :purple_heart: About
 **[Product Space at UC San Diego](https://www.productspace.org/)** is dedicated to establishing a Product Community for undergraduate students looking to enter the world of Product Management. To help us realize this goal, this resource includes a curated list of product management advice sourced from our Product Leaders. 
@@ -17,13 +17,14 @@ Be sure to check out our office hours!
 - [Section 1: The Basics](#bookmark_tabs-section-1-the-basics)
     - [What is Product Management (PM)](#sweat_smile-what-is-product-management-pm)
     - [What Product Resources does UC San Diego Have?](#trident-what-product-resources-does-uc-san-diego-have)
+    - [Product Management as a Career](#mountain-product-management-as-a-career)
 - [Section 2: Internship Preparation](#bulb-section-2-internship-preparation)
     - [Resume](#page_with_curl-resume)
     - [Product Design](#straight_ruler-product-design)
     - [Product Strategy](#chart_with_upwards_trend-product-strategy)
-    - [Analysis aka Fermi Problems](#bread-analysis-aka-fermi-problems)
-    - [Technical Ability](#crystal_ball-technical-ability)
-    - [Interview Tips and Tricks from our Board Members](#guardsman-interview-tips-and-tricks-from-our-board-members)
+    - [Analysis aka Fermi Problems](#trollface-analysis-aka-fermi-problems)
+    - [Technical Ability](#computer-technical-ability)
+    - [Interview Tips and Tricks from our Board Members](#bowtie-interview-tips-and-tricks-from-our-board-members)
     - [Using Social Media](#iphone-using-social-media)
     - [Books](#books-books)
     - [Articles](#memo-articles)
@@ -34,8 +35,10 @@ Be sure to check out our office hours!
     - [PM Internship Timeline](#alarm_clock-pm-internship-timeline)
     - [Finding Internships](#mag-finding-internships)
     - [APM vs PM](#pushpin-apm-vs-pm)
+    - [Networking](#busts_in_silhouette-networking)
     - [Internship and Job Postings](#book-internship-and-job-postings)
     - [Salary](#moneybag-salary)
+- [Miscellaneous](#taco-miscellaneous)
 - [Office Hours & Advising](#office-office-hours-and-advising)
 - [Contributors](#contributors)
 
@@ -78,6 +81,15 @@ Other than Product Space, as an aspiring PM at UCSD, what resources do you have?
   - [Design for America](http://dfaucsd.org/)
   - [Fi](https://fi-ucsd.com/) 
   - [Adwave](https://www.ucsdadwave.org/)
+  
+# :mountain: Product Management as a Career 
+**[Sharyl Sandberg](https://www.ted.com/speakers/sheryl_sandberg) advocates that you think of your career as a jungle gym, not a ladder.**
+
+This is true especially for Product Management. With all of the competition and school politics involved with Product Management, you may elect to specialize in something like philosophy or design before transitioning into a PM role. What we at Product Space want to make especially clear is that although this resource is designed for aspiring undergraduate Product Managers, this is actually one of the least common times for one's career to lead to Product Management. A majority of PM's in industry transition into the role as a function of their product expertise in whatever their previous capacity was. If you are interested in Product Management but do not know whether now is the time to pursue this path, do not feel pressured to do so!
+
+In a recent AMA hosted by the Product Team at [Jumpstart](http://jumpstart.me), every single person on the team shared their story as to how they became Product Managers and not a single one entered PM within five years of graduating, or even had computer science degrees. We currently function in a collegiate bubble, however Product Management is not the same once we graduate. Explore other possibilities and do not feel confined to follow a certain path because it leads to Product Management sooner rather than later. Be YOU. 
+
+And for those whose interest never waivered, let us begin!!
 
 # :bulb: Section 2: Internship Preparation
 Before the first application, you need to know your stuff. Product Management Interviews include questions that test you in multiple ways. The interview will test your intuition and "product sense" along the lines of what was covered in the first section, but now it's time to become competitive. 
@@ -141,7 +153,7 @@ To study for this portion of the interview, check out [Swipe to Unlock](https://
 - [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html)
 - [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html)
 
-## :bread: Analysis aka Fermi Problems
+## :trollface: Analysis aka Fermi Problems
 Product Managers are fluent with numbers, and are able to validate and effectively present data and articulate their analyses. They are comfortable using metrics and data to make decisions. This role may require decision-making from A/B test results, writing SQL queries, or running scripts to extract data from logs.
 Example interview questions:
 - How many scooters does Lime need in San Francisco?
@@ -150,7 +162,7 @@ Example interview questions:
 
 These questions are covered extensively in [Decode and Conquer](https://www.lewis-lin.com/decode-and-conquer) and [Cracking the PM Interview](http://www.crackingthepminterview.com/)
 
-## :crystal_ball: Technical Ability
+## :computer: Technical Ability
 ** May not be required ** This portion of the interview is usually reserved for PM positions in highly technical disciplines. Make sure to clarify with the job posting to see whether or not technical skills are required. 
 
 In order to prepare, you should review basic algorithms and computer science fundamentals, a large part of your credibility with engineers will be rooted in your technical competence.
@@ -165,7 +177,7 @@ Most technical questions will be LeetCode easy or medium. This is not the focus 
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
 
-## :guardsman: Interview Tips and Tricks from our Board Members
+## :bowtie: Interview Tips and Tricks from our Board Members
   - Practice explaining complicated product workflows or CS topics to improve your speaking skills
   - MOCK INTERVIEW!! Try to interview with multiple people before the real deal -- take it seriously.
   - Always research your interviewer/team on LinkedIn and learn the ins and outs of the market for that product
@@ -234,6 +246,8 @@ Social media is not required, however to stay competitive with other aspiring un
   - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_1?s=books&ie=UTF8&qid=1401740696&sr=1-1&keywords=how%20to%20win%20friends%20and%20influence%20people) 
 
 ## :memo: Articles
+- [Google APM Interview Prep](https://www.businessinsider.com/google-email-product-manager-2017-3)
+- [A Facebook VP on Product Management Interview Questions](https://www.careercontessa.com/advice/product-management-interview-questions/?es_p=8874734&es_p=9855294)
 - [The Quest to Find and Internship in Product Management](https://42hire.com/the-quest-to-find-an-internship-in-product-management-part-1-getting-the-interview-6283662939a0)
 - [Navigating the APM recruiting process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5) — Justina Chen
 - [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) — Fernando Delgado
@@ -283,6 +297,8 @@ Social media is not required, however to stay competitive with other aspiring un
 ## :books: More Resources
 Lastly, we will leave you with the resource that inspired the creation of a student-focused resource. It is geared towards those already in industry with a few years of experience, but if you feel like you're ready -- or just want an extra edge -- check it out!
 - [Open Product Management Resources](https://github.com/ProductHired/open-product-management/blob/master/README.md#career-prep-company-types)
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) Perhaps the best marketing resource we have ever come across -- specifically for engineers!
+
 
 # :email: Section 3: The Recruitment Process
 Now that you have a thorough knowledge of what being a Product Manager is all about, it's time to apply to positions.
@@ -348,6 +364,11 @@ The companies offering APM Programs will usually also offer regular Product Mana
   - [Yelp](https://www.yelp.com/careers/teams/college-engineering)
   - [Schmidt Futures](https://schmidtfutures.com/our-work/talent/associate-product-manager/apm-program/)
   - [Publicis Sapient](https://careers.publicissapient.com/students/usa-canada/product-management)
+  
+## :busts_in_silhouette: Networking
+Networking is a fantastic way to open doors and get reccommended to positions that are not open to the public. Check out some tips on how to network below:
+- [How to Become Insanely Well-Connected](https://firstround.com/review/how-to-become-insanely-well-connected/)
+- [How to be a Good Mentee](https://www.themuse.com/advice/how-to-be-a-good-mentee-4-ways)
 
 ## :book: Internship and Job Postings
 Our Team will be maintaining an open GSheet with links to selected internships for the upcoming application cycle.
@@ -370,6 +391,18 @@ Our Board Members are here to answer questions about the content found down belo
 - [Alex Fong's Calendly](https://calendly.com/alexmatthewfong/30min)
 
 To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
+
+# :taco: Miscellaneous
+The Product Space Team isn't just about Product Management! This section includes random things that we find cool or interesting that may just give you an edge come interview time!
+
+- [Do These 5 Things Your First Week at a New Job to Make a Good Impression](https://www.fastcompany.com/90304801/do-these-5-things-your-first-week-at-a-new-job-to-make-a-good-impression)
+- [Tips for Reading a Room Before a Presentation or Meeting](https://hbr.org/2018/05/tips-for-reading-the-room-before-a-meeting-or-presentation)
+- [Working with People Who Aren't Self-Aware](https://hbr.org/2018/10/working-with-people-who-arent-self-aware)
+- [Really Good Questions](https://reallygoodquestions.co/?ref=producthunt)
+- [1000 Projects](https://github.com/vicky002/1000_Projects)
+- [Color Scheme Generator](https://coolors.co/)
+- [What's Trending in Type?](https://www.typewolf.com/)
+- [How to Just Keep Working When You're Just Not Feeling It](https://hbr.org/2018/11/how-to-keep-working-when-youre-just-not-feeling-it)
 
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/ps-ucsd-logo-crop.png)
 
