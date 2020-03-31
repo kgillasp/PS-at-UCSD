@@ -40,7 +40,7 @@ Be sure to check out our office hours!
     - [Salary](#moneybag-salary)
 - [Miscellaneous](#taco-miscellaneous)
 - [Office Hours & Advising](#office-office-hours-and-advising)
-- [Contributors](#contributors)
+- [Contributors](#pencil-contributors)
 
 # :bookmark_tabs: Section 1: The Basics
 
