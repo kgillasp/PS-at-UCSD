@@ -1,4 +1,4 @@
-![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/intro.PNG)
+![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/intro.PNG)
 
 # Product Space @ UCSD hopes you're staying home :mask::heart:
 
@@ -389,7 +389,7 @@ Our Board Members are here to answer questions about the content found down belo
   - Experience: 2x FinTech PM at Oracle (GL, RevRec, FX), Business at Aerojet Rocketdyne (SOx, GL), Market Analyst at Startup
 - [Alex Fong's Calendly](https://calendly.com/alexmatthewfong/30min)
 
-To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
+To meet with multiple members, view our availability via our [Group Calendar](https://htmlpreview.github.io/?https://github.com/kgillasp/PS-at-UCSD/blob/master/resources/calendar.html) and send us an [email](mailto:productspaceuscd@gmail.com) with two desired meeting times!
 
 # :taco: Miscellaneous
 The Product Space Team isn't just about Product Management! This section includes random things that we find cool or interesting that may just give you an edge come interview time!
@@ -403,11 +403,11 @@ The Product Space Team isn't just about Product Management! This section include
 - [What's Trending in Type?](https://www.typewolf.com/)
 - [How to Just Keep Working When You're Just Not Feeling It](https://hbr.org/2018/11/how-to-keep-working-when-youre-just-not-feeling-it)
 
-![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/ps-ucsd-logo-crop.png)
+![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/ps-ucsd-logo-crop.png)
 
 # :pencil: Contributors
 If you are interested in contributing to this resource, please contact [ProductSpaceUCSD@gmail.com](mailto:productspaceuscd@gmail.com)
 - Kyle Gillaspy [LinkedIn](https://www.linkedin.com/in/kylegillaspy/)
 - Alex Fong [LinkedIn](https://www.linkedin.com/in/alexmatthewfong/)
 
-### To see what we're planning on adding to this resource next, check out our :bulb: [backlog](https://github.com/kgillasp/PS-at-UCSD/blob/master/backlog.md)
+### To see what we're planning on adding to this resource next, check out our :bulb: [backlog](https://github.com/kgillasp/PS-at-UCSD/blob/master/resources/backlog.md)
