@@ -406,7 +406,7 @@ The Product Space Team isn't just about Product Management! This section include
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/ps-ucsd-logo-crop.png)
 
 # :pencil: Contributors
-If you are interested in contributing to this resource, please contact [ProductSpaceUCSD@gmail.com](mailto:productspaceuscd@gmail.com)
+If you are interested in contributing to this resource, please contact [ucsd@productspace.org](mailto:ucsd@productspace.org)
 - Kyle Gillaspy [LinkedIn](https://www.linkedin.com/in/kylegillaspy/)
 - Alex Fong [LinkedIn](https://www.linkedin.com/in/alexmatthewfong/)
 
