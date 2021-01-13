@@ -266,15 +266,20 @@ Social media is not required, however to stay competitive with other aspiring un
 - [Stratechery - Paid](https://stratechery.com/daily-update/)
 
 ## :sound: Podcasts
-- :mega: PM Podcasts
+- :mega: PM Podcasts :star:
   - [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
   - [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787)
   - [Agile Uprising Podcast](https://podcasts.apple.com/us/podcast/agile-uprising-podcast/id1163230424)
   - [This is Product Management](https://podcasts.apple.com/us/podcast/this-is-product-management/id975284403)
   - [Product to Product](https://podcasts.apple.com/us/podcast/product-to-product/id1293415837)
   - [Product Talk](https://podcasts.apple.com/us/podcast/product-talk/id1038890550)
-  - [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
+- Startup and VC Podcasts
+  - [Founder's Journal](https://podcasts.apple.com/us/podcast/the-founders-journal/id1509276485) Morning Brew CEO's Diary
+  - [VC:20](https://podcasts.apple.com/us/podcast/twenty-minute-vc-venture-capital-startup-funding-pitch/id958230465)
+  - [Go To Market Grit](https://podcasts.apple.com/us/podcast/go-to-market-grit/id1510985491)
+  - [a16z Podcast](https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711)
   - [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
+  - [Product Hunt](https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883)
 - :straight_ruler: Design Podcasts
   - [The Product Experience](https://podcasts.apple.com/us/podcast/the-product-experience/id1447100407)
   - [Design Better Podcast](https://podcasts.apple.com/us/podcast/design-better-podcast/id1266839739)
@@ -282,6 +287,7 @@ Social media is not required, however to stay competitive with other aspiring un
   - [User Defenders](https://podcasts.apple.com/us/podcast/user-defenders-ux-design-and-personal-growth/id1055121160)
   - [UI Breakfast](https://podcasts.apple.com/us/podcast/ui-breakfast-ui-ux-design-and-product-strategy/id939175693)
 - :unlock: Tech News Podcasts
+  - [Exponent](https://podcasts.apple.com/us/podcast/exponent/id826420969) 
   - [Marketplace Tech](https://podcasts.apple.com/us/podcast/marketplace-tech/id73330855)
   - [The Future with Chris Do](https://podcasts.apple.com/us/podcast/the-futur-with-chris-do/id1209219220)
   - [The Crazy One](https://podcasts.apple.com/us/podcast/the-crazy-one/id1128248295)
@@ -290,6 +296,9 @@ Social media is not required, however to stay competitive with other aspiring un
   - [WSJ Tech News Briefing](https://podcasts.apple.com/us/podcast/wsj-tech-news-briefing/id74844126)
   - [Daily Tech News Show](https://podcasts.apple.com/us/podcast/daily-tech-news-show/id790864884)
 - :satellite: Other Podcasts 
+  - [The TPM Podcast](https://podcasts.apple.com/us/podcast/the-technical-program-management-podcast-interviews/id1294147678) Technical Program Management
+  - [Think Fast Talk Smart](https://podcasts.apple.com/us/podcast/think-fast-talk-smart-communication-techniques/id1494989268) Communication Experts give tips
+  - [Bill Gates and Rashida Jones Ask Big Questions](https://podcasts.apple.com/us/podcast/bill-gates-and-rashida-jones-ask-big-questions/id1538630420) 
   - [The CMO Podcast](https://podcasts.apple.com/us/podcast/the-cmo-podcast/id1460604334) Conversations with Chief Marketing Officers
   - [The GaryVee Audio Experience](https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684) the life of entrepreneur, CEO, investor, vlogger, and public speaker Gary Vaynerchuk.
 
