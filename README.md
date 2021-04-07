@@ -1,4 +1,4 @@
-![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/intro.PNG)
+![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/LinkedIn%20Banner%20Higher%20Res.png)
 
 # Product Space @ UCSD hopes you're staying home :mask::heart:
 
@@ -413,7 +413,10 @@ The Product Space Team isn't just about Product Management! This section include
 - [What's Trending in Type?](https://www.typewolf.com/)
 - [How to Just Keep Working When You're Just Not Feeling It](https://hbr.org/2018/11/how-to-keep-working-when-youre-just-not-feeling-it)
 
-![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/ps-ucsd-logo-crop.png)
+
+<p align="center">
+  <img width="272" height="77" src="https://github.com/kgillasp/PS-at-UCSD/blob/master/images/logoschool.JPG">
+</p>
 
 # :pencil: Contributors
 If you are interested in contributing to this resource, please contact [ucsd@productspace.org](mailto:ucsd@productspace.org)
