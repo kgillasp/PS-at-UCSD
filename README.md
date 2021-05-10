@@ -1,6 +1,6 @@
 ![Intro to Product Management](https://github.com/kgillasp/PS-at-UCSD/blob/master/images/LinkedIn%20Banner%20Higher%20Res.png)
 
-# Product Space @ UCSD hopes you're staying home :mask::heart:
+# Product Space @ UCSD hopes you're staying safe :mask::heart:
 
 ## :purple_heart: About
 **[Product Space at UC San Diego](https://www.productspace.org/)** is dedicated to establishing a Product Community for undergraduate students looking to enter the world of Product Management. To help us realize this goal, this resource includes a curated list of product management advice sourced from our Product Leaders. 
